@@ -8,15 +8,6 @@
     "lon": -122.314048558,
     "elev": 287
   },
-  "CAA5": {
-    "name": "Zeballos Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 49.9778,
-    "lon": -126.8445,
-    "elev": 0
-  },
   "CAA6": {
     "name": "Smithers (Canadian) Heliport",
     "regions": [
@@ -25,15 +16,6 @@
     "lat": 54.772295,
     "lon": -127.141599,
     "elev": 1600
-  },
-  "CAA7": {
-    "name": "Gilford Island/Echo Bay Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 50.766701,
-    "lon": -126.483002,
-    "elev": null
   },
   "CAA8": {
     "name": "Invermere Airport",
@@ -45,33 +27,6 @@
     "elev": 2820,
     "Freq": 123.2
   },
-  "CAA9": {
-    "name": "Port Alberni/Sproat Lake Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 49.2891524507,
-    "lon": -124.937746525,
-    "elev": 95
-  },
-  "CAB3": {
-    "name": "Bedwell Harbour Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 48.75,
-    "lon": -123.233001709,
-    "elev": 0
-  },
-  "CAB4": {
-    "name": "Tofino Harbour Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 49.155,
-    "lon": -125.91,
-    "elev": null
-  },
   "CAB7": {
     "name": "Kelowna (Alpine) Heliport",
     "regions": [
@@ -80,24 +35,6 @@
     "lat": 49.863872,
     "lon": -119.568517,
     "elev": 1640
-  },
-  "CAC8": {
-    "name": "Nanaimo Harbour Water Aerodrome",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 49.169813,
-    "lon": -123.933845,
-    "elev": null
-  },
-  "CAC9": {
-    "name": "Stewart Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 55.916698,
-    "lon": -130.0,
-    "elev": null
   },
   "CAD4": {
     "name": "Trail Regional Airport",
@@ -119,33 +56,6 @@
     "elev": 2080,
     "Freq": 123.2
   },
-  "CAD6": {
-    "name": "Atlin Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 59.5666999817,
-    "lon": -133.716995239,
-    "elev": 2190
-  },
-  "CAD7": {
-    "name": "Gilford Island/Health Bay Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 50.7000007629,
-    "lon": -126.599998474,
-    "elev": 0
-  },
-  "CAD8": {
-    "name": "Nelson Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 49.5,
-    "lon": -117.300003052,
-    "elev": 1740
-  },
   "CAE2": {
     "name": "Cranbrook (East Kootenay Regional Hospital) Heliport",
     "regions": [
@@ -154,42 +64,6 @@
     "lat": 49.51250076293945,
     "lon": -115.75,
     "elev": 3050
-  },
-  "CAE3": {
-    "name": "Campbell River Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 50.049999,
-    "lon": -125.25,
-    "elev": null
-  },
-  "CAE5": {
-    "name": "Whistler/Green Lake Water Aerodrome",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 50.1436004639,
-    "lon": -122.948997498,
-    "elev": 2100
-  },
-  "CAE7": {
-    "name": "Harrison Hot Springs Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 49.3048530057,
-    "lon": -121.785936356,
-    "elev": 34
-  },
-  "CAE9": {
-    "name": "Bamfield Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 48.835967,
-    "lon": -125.137453,
-    "elev": null
   },
   "CAF4": {
     "name": "Tsuniah Lake Lodge Airport",
@@ -200,24 +74,6 @@
     "lon": -124.163961,
     "elev": 4000
   },
-  "CAF6": {
-    "name": "Big Bay Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 50.3923,
-    "lon": -125.1372,
-    "elev": null
-  },
-  "CAF8": {
-    "name": "Nimpo Lake Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 52.327,
-    "lon": -125.145,
-    "elev": 3665
-  },
   "CAG3": {
     "name": "Chilko Lake (Tsylos Park Lodge) Airport",
     "regions": [
@@ -226,42 +82,6 @@
     "lat": 51.625797,
     "lon": -124.144478,
     "elev": 3850
-  },
-  "CAG6": {
-    "name": "Blind Channel Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 50.416698,
-    "lon": -125.5,
-    "elev": 0
-  },
-  "CAG8": {
-    "name": "Pender Harbour Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 49.623785,
-    "lon": -124.024884,
-    "elev": null
-  },
-  "CAG9": {
-    "name": "Surge Narrows Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 50.219679,
-    "lon": -125.125596,
-    "elev": null
-  },
-  "CAH2": {
-    "name": "Ocean Falls Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 52.3666992188,
-    "lon": -127.717002869,
-    "elev": 0
   },
   "CAH3": {
     "name": "Courtenay Airpark",
@@ -283,24 +103,6 @@
     "elev": 2615,
     "Freq": 123.2
   },
-  "CAH7": {
-    "name": "Kamloops Water Aerodrome",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 50.698499,
-    "lon": -120.431862,
-    "elev": 1129
-  },
-  "CAH9": {
-    "name": "Telegraph Creek Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 57.9071,
-    "lon": -131.18946,
-    "elev": 1129
-  },
   "CAJ3": {
     "name": "Creston Valley Regional Airport - Art Sutcliffe Field",
     "regions": [
@@ -321,15 +123,6 @@
     "elev": 3635,
     "Freq": 122.8
   },
-  "CAJ8": {
-    "name": "Pitt Meadows Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 49.209215,
-    "lon": -122.709646,
-    "elev": 6
-  },
   "CAJ9": {
     "name": "Fort Ware Airport",
     "regions": [
@@ -348,15 +141,6 @@
     "lon": -122.941002,
     "elev": 10,
     "Freq": 118.1
-  },
-  "CAK6": {
-    "name": "Camp Cordero Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 50.446694,
-    "lon": -125.453785,
-    "elev": 0
   },
   "CAK7": {
     "name": "Vancouver (Children & Women's Health Centre) Heliport",
@@ -395,15 +179,6 @@
     "lon": -123.508717,
     "elev": 148
   },
-  "CAL9": {
-    "name": "Tahsis Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 49.916698455799995,
-    "lon": -126.666999817,
-    "elev": 0
-  },
   "CAM3": {
     "name": "Duncan Airport",
     "regions": [
@@ -424,42 +199,6 @@
     "elev": 2150,
     "Freq": 123.2
   },
-  "CAM8": {
-    "name": "Port McNeill Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 50.592231,
-    "lon": -127.088385,
-    "elev": null
-  },
-  "CAM9": {
-    "name": "Vancouver International Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 49.177047,
-    "lon": -123.168154,
-    "elev": 0
-  },
-  "CAN3": {
-    "name": "Ucluelet Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 48.950003,
-    "lon": -125.550005,
-    "elev": null
-  },
-  "CAN6": {
-    "name": "Prince Rupert/Digby Island Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 54.313646,
-    "lon": -130.405058,
-    "elev": 0
-  },
   "CAP3": {
     "name": "Sechelt-Gibsons Airport",
     "regions": [
@@ -469,15 +208,6 @@
     "lon": -123.71900177,
     "elev": 340
   },
-  "CAP5": {
-    "name": "Victoria Airport Water Aerodrome",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 48.653892,
-    "lon": -123.450451,
-    "elev": null
-  },
   "CAP6": {
     "name": "Ingenika Airport",
     "regions": [
@@ -486,33 +216,6 @@
     "lat": 56.790599823,
     "lon": -124.897003174,
     "elev": 2230
-  },
-  "CAP7": {
-    "name": "Kitkatla Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 53.7999992371,
-    "lon": -130.432998657,
-    "elev": null
-  },
-  "CAP8": {
-    "name": "Port Washington Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 48.812,
-    "lon": -123.321,
-    "elev": null
-  },
-  "CAQ3": {
-    "name": "Coal Harbour Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 50.597378,
-    "lon": -127.57865,
-    "elev": 0
   },
   "CAQ4": {
     "name": "Springhouse Airpark",
@@ -533,42 +236,6 @@
     "elev": 1689,
     "Freq": 123.2
   },
-  "CAQ6": {
-    "name": "Queen Charlotte City Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 53.25282,
-    "lon": -132.074214,
-    "elev": null
-  },
-  "CAQ8": {
-    "name": "Powell Lake Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 49.887335,
-    "lon": -124.53372,
-    "elev": 174
-  },
-  "CAR7": {
-    "name": "Kyuquot Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 50.02803,
-    "lon": -127.374427,
-    "elev": null
-  },
-  "CAR9": {
-    "name": "Bella Bella/Waglisla Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 52.166698,
-    "lon": -128.132994,
-    "elev": null
-  },
   "CAS2": {
     "name": "Moose Lake Lodge Airport",
     "regions": [
@@ -578,15 +245,6 @@
     "lon": -125.408358,
     "elev": 3500
   },
-  "CAS4": {
-    "name": "Fort Langley Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 49.166698,
-    "lon": -122.532997,
-    "elev": 10
-  },
   "CAS5": {
     "name": "Aerosmith Heli Service Heliport",
     "regions": [
@@ -595,15 +253,6 @@
     "lat": 49.3074,
     "lon": -124.413302,
     "elev": 282
-  },
-  "CAT3": {
-    "name": "Nanaimo/Long Lake Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 49.209538,
-    "lon": -124.008982,
-    "elev": 390
   },
   "CAT4": {
     "name": "Qualicum Beach Airport",
@@ -633,15 +282,6 @@
     "lon": -125.242845,
     "elev": 228
   },
-  "CAT7": {
-    "name": "Lasqueti Island/False Bay Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 49.5,
-    "lon": -124.349998,
-    "elev": null
-  },
   "CAU3": {
     "name": "Oliver Airport",
     "regions": [
@@ -662,24 +302,6 @@
     "elev": 2225,
     "Freq": 122.8
   },
-  "CAU6": {
-    "name": "Gold River Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 49.679217,
-    "lon": -126.116203,
-    "elev": 0
-  },
-  "CAU8": {
-    "name": "Rivers Inlet Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 51.683985,
-    "lon": -127.264044,
-    "elev": null
-  },
   "CAV3": {
     "name": "One Hundred Mile House Airport",
     "regions": [
@@ -697,33 +319,6 @@
     "lat": 53.314999,
     "lon": -120.170998,
     "elev": 2350
-  },
-  "CAV5": {
-    "name": "Sullivan Bay Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 50.885359,
-    "lon": -126.831069,
-    "elev": null
-  },
-  "CAV7": {
-    "name": "Mansons Landing Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 50.07137,
-    "lon": -124.98362,
-    "elev": null
-  },
-  "CAV8": {
-    "name": "Shawnigan Lake Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 48.633301,
-    "lon": -123.633003,
-    "elev": 380
   },
   "CAW3": {
     "name": "Scum Lake Airport",
@@ -743,60 +338,6 @@
     "lon": -122.954679,
     "elev": 2182
   },
-  "CAW5": {
-    "name": "Port Hardy Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 50.716702,
-    "lon": -127.483002,
-    "elev": null
-  },
-  "CAW6": {
-    "name": "Fort Ware Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 57.4236,
-    "lon": -125.6442,
-    "elev": 2480
-  },
-  "CAW7": {
-    "name": "Mayne Island Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 48.852241,
-    "lon": -123.301982,
-    "elev": null
-  },
-  "CAW8": {
-    "name": "Bella Bella/Shearwater Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 52.150002,
-    "lon": -128.08299,
-    "elev": 0
-  },
-  "CAW9": {
-    "name": "Whaletown Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 50.108504,
-    "lon": -125.051001,
-    "elev": 0
-  },
-  "CAX3": {
-    "name": "Sechelt/Porpoise Bay Water Aerodrome",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 49.483,
-    "lon": -123.7577,
-    "elev": null
-  },
   "CAX5": {
     "name": "Likely Airport",
     "regions": [
@@ -805,60 +346,6 @@
     "lat": 52.61669921875,
     "lon": -121.5,
     "elev": 3225
-  },
-  "CAX6": {
-    "name": "Ganges Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 48.8545,
-    "lon": -123.4969,
-    "elev": 0
-  },
-  "CAX7": {
-    "name": "Minstrel Island Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 50.608299,
-    "lon": -126.306038,
-    "elev": null
-  },
-  "CAX8": {
-    "name": "Smithers/Tyhee Lake Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 54.716702,
-    "lon": -127.050005,
-    "elev": 1640
-  },
-  "CAY4": {
-    "name": "Hartley Bay Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 53.416698,
-    "lon": -129.25,
-    "elev": 0
-  },
-  "CAY9": {
-    "name": "Winfield (Wood Lake) Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 50.049999,
-    "lon": -119.400002,
-    "elev": 1283
-  },
-  "CAZ3": {
-    "name": "Takla Landing Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 55.484,
-    "lon": -125.987,
-    "elev": 2260
   },
   "CAZ4": {
     "name": "Quesnel (G.R. Baker Memorial Hospital) Heliport",
@@ -878,24 +365,6 @@
     "lon": -121.321314,
     "elev": 2034,
     "Freq": 123.2
-  },
-  "CAZ6": {
-    "name": "Fort St. James/Stuart River Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 54.419,
-    "lon": -124.271,
-    "elev": 2238
-  },
-  "CBA3": {
-    "name": "Kincolith Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 54.99,
-    "lon": -129.96,
-    "elev": 0
   },
   "CBA8": {
     "name": "Beaverley Airport",
@@ -962,15 +431,6 @@
     "elev": 141,
     "Freq": 122.8
   },
-  "CBC3": {
-    "name": "Alert Bay Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 50.583302,
-    "lon": -126.932999,
-    "elev": null
-  },
   "CBC4": {
     "name": "Kamloops (Royal Inland Hospital) Heliport",
     "regions": [
@@ -1025,24 +485,6 @@
     "lon": -115.156923,
     "elev": 2850
   },
-  "CBE7": {
-    "name": "Alliford Bay Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 53.214717,
-    "lon": -131.992082,
-    "elev": null
-  },
-  "CBE8": {
-    "name": "Moose Lake Lodge Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 53.075802,
-    "lon": -125.401001,
-    "elev": null
-  },
   "CBE9": {
     "name": "Whistler (Municipal) Heliport",
     "regions": [
@@ -1088,15 +530,6 @@
     "lon": -123.388,
     "elev": 15
   },
-  "CBF8": {
-    "name": "Muncho Lake/Mile 462 Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 59.009,
-    "lon": -125.775,
-    "elev": 2681
-  },
   "CBF9": {
     "name": "Mabel Lake Airport",
     "regions": [
@@ -1134,15 +567,6 @@
     "elev": 1940,
     "Freq": 118.3
   },
-  "CBG9": {
-    "name": "Courtenay Airpark Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 49.6814,
-    "lon": -124.981003,
-    "elev": null
-  },
   "CBH2": {
     "name": "Helmet Airport",
     "regions": [
@@ -1161,15 +585,6 @@
     "lon": -121.989785,
     "elev": 3650,
     "Freq": 123.2
-  },
-  "CBJ8": {
-    "name": "Fraser Lake Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 54.0667,
-    "lon": -124.883003,
-    "elev": 2205
   },
   "CBJ9": {
     "name": "San Juan Point (Coast Guard) Heliport",
@@ -1288,15 +703,6 @@
     "lon": -127.066806257,
     "elev": 150
   },
-  "CBN4": {
-    "name": "Masset Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 54.009,
-    "lon": -132.15,
-    "elev": null
-  },
   "CBN9": {
     "name": "Tsay Keh Airport",
     "regions": [
@@ -1360,15 +766,6 @@
     "lon": -128.23300170898438,
     "elev": 537,
     "Freq": 123.2
-  },
-  "CBQ9": {
-    "name": "Quennell Lake Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 49.077497,
-    "lon": -123.831001,
-    "elev": 122
   },
   "CBR2": {
     "name": "Kaslo Airport",
@@ -1572,15 +969,6 @@
     "lon": -130.27684,
     "elev": 17
   },
-  "CBY6": {
-    "name": "Green Lake Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 51.421902,
-    "lon": -121.213997,
-    "elev": 3507
-  },
   "CBZ2": {
     "name": "Kemano Heliport",
     "regions": [
@@ -1645,15 +1033,6 @@
     "lon": -117.552001953125,
     "elev": 1632
   },
-  "CCX6": {
-    "name": "Comox Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 49.670601,
-    "lon": -124.932999,
-    "elev": 0
-  },
   "CDC3": {
     "name": "Flying L Ranch Airport",
     "regions": [
@@ -1689,24 +1068,6 @@
     "lat": 49.160814,
     "lon": -123.923217,
     "elev": 12
-  },
-  "CER9": {
-    "name": "Fort Nelson (Parker Lake) Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 58.825217,
-    "lon": -122.900345,
-    "elev": 1255
-  },
-  "CEY7": {
-    "name": "Fort St. John (Charlie Lake) Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 56.286026,
-    "lon": -120.965824,
-    "elev": 2266
   },
   "CFH2": {
     "name": "Frontline Helicopters Heliport",
@@ -1844,15 +1205,6 @@
     "lon": -119.4924,
     "elev": 1180
   },
-  "CLD3": {
-    "name": "Burns Lake (LD Air) Water Aerodrome",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 54.21,
-    "lon": -125.756901,
-    "elev": 2300
-  },
   "CMBH": {
     "name": "Mount Belcher Heliport",
     "regions": [
@@ -1925,15 +1277,6 @@
     "lon": -124.517455,
     "elev": 300
   },
-  "CPW9": {
-    "name": "Port Alberni Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 49.231899,
-    "lon": -124.815002,
-    "elev": null
-  },
   "CR8A": {
     "name": "Reef Hueston Helicopter Landing",
     "regions": [
@@ -1960,15 +1303,6 @@
     "lat": 49.0110458923,
     "lon": -122.672213316,
     "elev": 250
-  },
-  "CRF6": {
-    "name": "Quamichan Lake (Raven Field) Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 48.8083,
-    "lon": -123.650001,
-    "elev": 100
   },
   "CRG2": {
     "name": "Argus Heliport",
@@ -2006,15 +1340,6 @@
     "lon": -122.197441,
     "elev": 1067
   },
-  "CSP4": {
-    "name": "Sproat Lake Landing Water Aerodrome.",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 49.284,
-    "lon": -124.973,
-    "elev": 105
-  },
   "CSR6": {
     "name": "Sonora Resort Heliport",
     "regions": [
@@ -2023,15 +1348,6 @@
     "lat": 50.3817339685,
     "lon": -125.157558918,
     "elev": 46
-  },
-  "CSU6": {
-    "name": "Spout Lake Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 52.0075,
-    "lon": -121.445,
-    "elev": 3560
   },
   "CTK8": {
     "name": "Abbotsford (Teck) Heliport",
@@ -2059,15 +1375,6 @@
     "lat": 49.176015,
     "lon": -122.84372,
     "elev": 245
-  },
-  "CVW2": {
-    "name": "Vernon/Wildlife Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 50.243599,
-    "lon": -119.344002,
-    "elev": 1122
   },
   "CWC2": {
     "name": "Kelowna (Wildcat Helicopters) Heliport",
@@ -2271,15 +1578,6 @@
     "lon": -116.982002,
     "elev": 2575,
     "Freq": 122.8
-  },
-  "CYHC": {
-    "name": "Vancouver Harbour Water Aerodrome",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 49.291265,
-    "lon": -123.11717,
-    "elev": null
   },
   "CYHE": {
     "name": "Hope Airport / FVRD Regional Airpark",
@@ -2508,15 +1806,6 @@
     "elev": 14,
     "Freq": 118.7
   },
-  "CYWH": {
-    "name": "Victoria Harbour Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 48.423782,
-    "lon": -123.37198,
-    "elev": null
-  },
   "CYWL": {
     "name": "Williams Lake Airport",
     "regions": [
@@ -2717,15 +2006,6 @@
     "elev": 24,
     "Freq": 123.2
   },
-  "CZSW": {
-    "name": "Prince Rupert/Seal Cove Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 54.333302,
-    "lon": -130.283005,
-    "elev": null
-  },
   "KCA2": {
     "name": "The Hill Airstrip",
     "regions": [
@@ -2735,114 +2015,6 @@
     "lon": -123.449538,
     "elev": null
   },
-  "SYF": {
-    "name": "Silva Bay Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 49.151,
-    "lon": -123.698,
-    "elev": null
-  },
-  "XBB": {
-    "name": "Blubber Bay Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 49.793958,
-    "lon": -124.621064,
-    "elev": 0
-  },
-  "YAJ": {
-    "name": "Lyall Harbour Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 48.795274,
-    "lon": -123.181801,
-    "elev": null
-  },
-  "YAQ": {
-    "name": "Maple Bay Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 48.8167,
-    "lon": -123.6084,
-    "elev": null
-  },
-  "YBH": {
-    "name": "Bull Harbour Water Aerodrome",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 50.9179,
-    "lon": -127.9372,
-    "elev": 0
-  },
-  "YBQ": {
-    "name": "Telegraph Harbour Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 48.97,
-    "lon": -123.664,
-    "elev": null
-  },
-  "YCF": {
-    "name": "Cortes Bay Water Aerodrome",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 50.063,
-    "lon": -124.930002,
-    "elev": null
-  },
-  "YGE": {
-    "name": "Gorge Harbour Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 50.0994,
-    "lon": -125.0235,
-    "elev": 0
-  },
-  "YGN": {
-    "name": "Greenway Sound Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 50.839,
-    "lon": -126.775,
-    "elev": null
-  },
-  "YKT": {
-    "name": "Klemtu Water Aerodrome",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 52.6076345452,
-    "lon": -128.521757126,
-    "elev": 0
-  },
-  "YQJ": {
-    "name": "April Point Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 50.065,
-    "lon": -125.235,
-    "elev": null
-  },
-  "YRC": {
-    "name": "Refuge Cove Seaplane Base",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 50.1234,
-    "lon": -124.843,
-    "elev": 0
-  },
   "YRD": {
     "name": "Dean River Airport",
     "regions": [
@@ -2851,14 +2023,5 @@
     "lat": 52.82371,
     "lon": -126.964957,
     "elev": 62
-  },
-  "ZNU": {
-    "name": "Namu Water Aerodrome",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 51.862825,
-    "lon": -127.869357,
-    "elev": 0
   }
 }
