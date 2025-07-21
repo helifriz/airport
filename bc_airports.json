@@ -1,6 +1,6 @@
 
   "CAB5": {
-    "name": "Abbotsford (Regional Hospital & Cancer Centre) Heliport",
+    "name": "Abbotsford (Regional Hospital)",
     "regions": [
       "ALL"
     ],
@@ -57,7 +57,7 @@
     "Freq": 123.2
   },
   "CAE2": {
-    "name": "Cranbrook (East Kootenay Regional Hospital) Heliport",
+    "name": "Cranbrook (East Kootenay Regional Hospital",
     "regions": [
       "ALL"
     ],
@@ -75,7 +75,7 @@
     "elev": 4000
   },
   "CAG3": {
-    "name": "Chilko Lake (Tsylos Park Lodge) Airport",
+    "name": "Chilko Lake Airport",
     "regions": [
       "ALL"
     ],
@@ -104,7 +104,7 @@
     "Freq": 123.2
   },
   "CAJ3": {
-    "name": "Creston Valley Regional Airport - Art Sutcliffe Field",
+    "name": "Creston Valley Regional Airport",
     "regions": [
       "ALL"
     ],
@@ -143,7 +143,7 @@
     "Freq": 118.1
   },
   "CAK7": {
-    "name": "Vancouver (Children & Women's Health Centre) Heliport",
+    "name": "Vancouver Children & Women's",
     "regions": [
       "ALL"
     ],
@@ -152,7 +152,7 @@
     "elev": 225
   },
   "CAL2": {
-    "name": "Arrow Lakes Hospital Heliport",
+    "name": "Arrow Lakes Hospital",
     "regions": [
       "ALL"
     ],
@@ -171,7 +171,7 @@
     "Freq": 123.2
   },
   "CAL7": {
-    "name": "Ganges (Lady Minto / Gulf Islands Hospital) Heliport",
+    "name": "Ganges (Lady Minto Hospital)",
     "regions": [
       "ALL"
     ],
@@ -274,7 +274,7 @@
     "elev": 225
   },
   "CAT6": {
-    "name": "Campbell River (Campbell River & District General Hospital) Heliport",
+    "name": "Campbell River (General Hospital)",
     "regions": [
       "ALL"
     ],
@@ -312,7 +312,7 @@
     "elev": 3055
   },
   "CAV4": {
-    "name": "McBride Airport/Charlie Leake Field",
+    "name": "McBride Airport",
     "regions": [
       "ALL"
     ],
@@ -330,7 +330,7 @@
     "elev": 3950
   },
   "CAW4": {
-    "name": "Whistler (Hospital) Heliport",
+    "name": "Whistler (Hospital)",
     "regions": [
       "ALL"
     ],
@@ -348,7 +348,7 @@
     "elev": 3225
   },
   "CAZ4": {
-    "name": "Quesnel (G.R. Baker Memorial Hospital) Heliport",
+    "name": "Quesnel (G.R. Baker Memorial Hospital)",
     "regions": [
       "ALL"
     ],
@@ -394,7 +394,7 @@
     "elev": 717
   },
   "CBB5": {
-    "name": "Port Alice (Hospital) Heliport",
+    "name": "Port Alice (Hospital)",
     "regions": [
       "ALL"
     ],
@@ -432,7 +432,7 @@
     "Freq": 122.8
   },
   "CBC4": {
-    "name": "Kamloops (Royal Inland Hospital) Heliport",
+    "name": "Kamloops (Royal Inland Hospital)",
     "regions": [
       "ALL"
     ],
@@ -441,7 +441,7 @@
     "elev": 1349
   },
   "CBC7": {
-    "name": "Harbour (Public) Heliport",
+    "name": "Harbour Heliport",
     "regions": [
       "ALL"
     ],
@@ -450,7 +450,7 @@
     "elev": 2
   },
   "CBC8": {
-    "name": "Tofino General Hospital Heliport",
+    "name": "Tofino General Hospital",
     "regions": [
       "ALL"
     ],
@@ -549,7 +549,7 @@
     "elev": 3550
   },
   "CBG5": {
-    "name": "Nanaimo (Regional General Hospital) Heliport",
+    "name": "Nanaimo (Regional General Hospital)",
     "regions": [
       "ALL"
     ],
@@ -596,7 +596,7 @@
     "elev": 25
   },
   "CBK4": {
-    "name": "Vancouver General Hospital Heliport",
+    "name": "Vancouver General Hospital",
     "regions": [
       "ALL"
     ],
@@ -605,7 +605,7 @@
     "elev": 235
   },
   "CBK5": {
-    "name": "Port Alberni (West Coast General Hospital) Heliport",
+    "name": "Port Alberni (West Coast General Hospital)",
     "regions": [
       "ALL"
     ],
@@ -632,7 +632,7 @@
     "elev": 2400
   },
   "CBK8": {
-    "name": "Victoria (Royal Jubilee Hospital) Heliport",
+    "name": "Victoria (Royal Jubilee Hospital)",
     "regions": [
       "ALL"
     ],
@@ -695,7 +695,7 @@
     "elev": 1896
   },
   "CBM9": {
-    "name": "Port McNeill (Hospital) Heliport",
+    "name": "Port McNeill (Hospital)",
     "regions": [
       "ALL"
     ],
@@ -713,7 +713,7 @@
     "elev": 2280
   },
   "CBP3": {
-    "name": "Fernie (Elk Valley Hospital) Heliport",
+    "name": "Fernie (Elk Valley Hospital)",
     "regions": [
       "ALL"
     ],
@@ -722,7 +722,7 @@
     "elev": 3300
   },
   "CBP4": {
-    "name": "Sechelt (St. Mary's Hospital) Heliport",
+    "name": "Sechelt (St. Mary's Hospital)",
     "regions": [
       "ALL"
     ],
@@ -796,7 +796,7 @@
     "elev": 10
   },
   "CBR8": {
-    "name": "Prince Rupert (Hospital) Heliport",
+    "name": "Prince Rupert (Hospital)",
     "regions": [
       "ALL"
     ],
@@ -814,7 +814,7 @@
     "elev": 2900
   },
   "CBS5": {
-    "name": "Port Hardy (Hospital) Heliport",
+    "name": "Port Hardy (Hospital",
     "regions": [
       "ALL"
     ],
@@ -842,7 +842,7 @@
     "elev": 3550
   },
   "CBT5": {
-    "name": "Golden (Golden & District General Hospital) Heliport",
+    "name": "Golden (Golden & District General Hospital)",
     "regions": [
       "ALL"
     ],
@@ -879,7 +879,7 @@
     "elev": 98
   },
   "CBU5": {
-    "name": "Terrace (Mills Memorial Hospital) Heliport",
+    "name": "Terrace (Mills Memorial Hospital)",
     "regions": [
       "ALL"
     ],
@@ -897,7 +897,7 @@
     "elev": 2600
   },
   "CBV8": {
-    "name": "Comox (St. Joseph's Hospital) Heliport",
+    "name": "Comox (St. Joseph's Hospital)",
     "regions": [
       "ALL"
     ],
@@ -933,7 +933,7 @@
     "elev": 2000
   },
   "CBW7": {
-    "name": "Victoria (General Hospital) Heliport",
+    "name": "Victoria (General Hospital)",
     "regions": [
       "ALL"
     ],
@@ -998,7 +998,7 @@
     "Freq": 122.8
   },
   "CCI9": {
-    "name": "Cortes Island (Hansen Airfield) Airport",
+    "name": "Cortes Island Airport",
     "regions": [
       "ALL"
     ],
@@ -1052,7 +1052,7 @@
     "elev": 3060
   },
   "CDH4": {
-    "name": "Cowichan District Hospital Heliport",
+    "name": "Cowichan District Hospital",
     "regions": [
       "ALL"
     ],
@@ -1079,7 +1079,7 @@
     "elev": 2644
   },
   "CFJ7": {
-    "name": "Fort St. John (Hospital) Heliport",
+    "name": "Fort St. John (Hospital)",
     "regions": [
       "ALL"
     ],
@@ -1106,7 +1106,7 @@
     "elev": 180
   },
   "CGB4": {
-    "name": "Nanaimo/Gabriola Island (Health Clinic) Heliport",
+    "name": "Nanaimo/Gabriola Island (Health Clinic)",
     "regions": [
       "ALL"
     ],
@@ -1188,7 +1188,7 @@
     "elev": null
   },
   "CKB3": {
-    "name": "Kootenay Boundary Regional Hospital Heliport",
+    "name": "Kootenay Boundary Regional Hospital",
     "regions": [
       "ALL"
     ],
@@ -1197,7 +1197,7 @@
     "elev": 1526
   },
   "CKH9": {
-    "name": "Kelowna General Hospital Helipad",
+    "name": "Kelowna General Hospital",
     "regions": [
       "ALL"
     ],
@@ -1224,7 +1224,7 @@
     "elev": 2711
   },
   "CML2": {
-    "name": "Quamichan Lake (Raven Field) Airport",
+    "name": "Quamichan Lake Airport",
     "regions": [
       "ALL"
     ],
