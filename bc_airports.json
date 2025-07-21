@@ -2,8 +2,9 @@
   "CAB5": {
     "name": "Abbotsford (Regional Hospital)",
     "regions": [
-      "ALL"
-    ],
+        "Vancouver",
+        "ALL"
+      ],
     "lat": 49.0362,
     "lon": -122.3140,
     "elev": 287
