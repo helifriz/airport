@@ -22,7 +22,7 @@
   "MAX_TAKEOFF_WEIGHT": 4800,
   "waypoints": {
   "CAB5": {
-    "name": "Abbotsford (Regional hosp)",
+    "name": "Abbotsford hosp",
     "regions": [
         "Vancouver",
         "ALL"
@@ -80,7 +80,7 @@
     "Freq": 123.2
   },
   "CAE2": {
-    "name": "Cranbrook (East Kootenay Regional hosp",
+    "name": "Cranbrook hosp",
     "regions": [
       "ALL"
     ],
@@ -107,7 +107,7 @@
     "elev": 3850
   },
   "CAH3": {
-    "name": "Courtenay Airpark",
+    "name": "Courtenay (A)",
     "regions": [
       "ALL"
     ],
@@ -241,7 +241,7 @@
     "elev": 2230
   },
   "CAQ4": {
-    "name": "Springhouse Airpark",
+    "name": "Springhouse (A)",
     "regions": [
       "ALL"
     ],
@@ -297,7 +297,7 @@
     "elev": 225
   },
   "CAT6": {
-    "name": "Campbell River (General hosp)",
+    "name": "Campbell River hosp",
     "regions": [
       "ALL"
     ],
@@ -371,7 +371,7 @@
     "elev": 3225
   },
   "CAZ4": {
-    "name": "Quesnel (G.R. Baker Memorial hosp)",
+    "name": "Quesnel hosp",
     "regions": [
       "ALL"
     ],
@@ -500,7 +500,7 @@
     "elev": 2925
   },
   "CBE2": {
-    "name": "Lionel P. Demers Memorial Airpark",
+    "name": "Lionel P. Demers Memorial (A)",
     "regions": [
       "ALL"
     ],
@@ -572,23 +572,13 @@
     "elev": 3550
   },
   "CBG5": {
-    "name": "Nanaimo (Regional General hosp)",
+    "name": "Nanaimo hosp",
     "regions": [
       "ALL"
     ],
     "lat": 49.1857,
     "lon": -123.9718,
     "elev": 292
-  },
-  "CBG8": {
-    "name": "Prince George (Pacific Western Helicopters) (H)",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 53.8775,
-    "lon": -122.7667,
-    "elev": 1940,
-    "Freq": 118.3
   },
   "CBH2": {
     "name": "Helmet (A)",
@@ -628,7 +618,7 @@
     "elev": 235
   },
   "CBK5": {
-    "name": "Port Alberni (West Coast General hosp)",
+    "name": "Port Alberni hosp",
     "regions": [
       "ALL"
     ],
@@ -718,7 +708,7 @@
     "elev": 1896
   },
   "CBM9": {
-    "name": "Port McNeill (hosp)",
+    "name": "Port McNeill hosp",
     "regions": [
       "ALL"
     ],
@@ -736,7 +726,7 @@
     "elev": 2280
   },
   "CBP3": {
-    "name": "Fernie (Elk Valley hosp)",
+    "name": "Fernie hosp",
     "regions": [
       "ALL"
     ],
@@ -745,7 +735,7 @@
     "elev": 3300
   },
   "CBP4": {
-    "name": "Sechelt (St. Mary's hosp)",
+    "name": "Sechelt hosp",
     "regions": [
       "ALL"
     ],
@@ -819,7 +809,7 @@
     "elev": 10
   },
   "CBR8": {
-    "name": "Prince Rupert (hosp)",
+    "name": "Prince Rupert hosp",
     "regions": [
       "ALL"
     ],
@@ -837,7 +827,7 @@
     "elev": 2900
   },
   "CBS5": {
-    "name": "Port Hardy (hosp",
+    "name": "Port Hardy hosp",
     "regions": [
       "ALL"
     ],
@@ -865,7 +855,7 @@
     "elev": 3550
   },
   "CBT5": {
-    "name": "Golden (Golden & District General hosp)",
+    "name": "Golden hosp",
     "regions": [
       "ALL"
     ],
@@ -902,7 +892,7 @@
     "elev": 98
   },
   "CBU5": {
-    "name": "Terrace (Mills Memorial hosp)",
+    "name": "Terrace hosp",
     "regions": [
       "ALL"
     ],
@@ -920,7 +910,7 @@
     "elev": 2600
   },
   "CBV8": {
-    "name": "Comox (St. Joseph's hosp)",
+    "name": "Comox hosp",
     "regions": [
       "ALL"
     ],
@@ -956,7 +946,7 @@
     "elev": 2000
   },
   "CBW7": {
-    "name": "Victoria (General hosp)",
+    "name": "Victoria hosp",
     "regions": [
       "ALL"
     ],
@@ -1211,7 +1201,7 @@
     "elev": null
   },
   "CKB3": {
-    "name": "Kootenay Boundary Regional hosp",
+    "name": "Kootenay hosp",
     "regions": [
       "ALL"
     ],
@@ -1256,7 +1246,7 @@
     "elev": 130
   },
   "CND7": {
-    "name": "Slocan Community hosp Helipad",
+    "name": "Slocan hosp (H)",
     "regions": [
       "ALL"
     ],
@@ -1283,7 +1273,7 @@
     "elev": 1856
   },
   "CNW9": {
-    "name": "New Westminster (Royal Columbian hosp) (H)",
+    "name": "New Westminster hosp (H)",
     "regions": [
       "ALL"
     ],
@@ -1292,7 +1282,7 @@
     "elev": 124
   },
   "CPW8": {
-    "name": "Powell River (hosp) (H)",
+    "name": "Powell River hosp (H)",
     "regions": [
       "ALL"
     ],
@@ -1337,7 +1327,7 @@
     "elev": 1894
   },
   "CRHA": {
-    "name": "Streatham Reef Hueston Airfield",
+    "name": "Streatham Reef Hueston (A)",
     "regions": [
       "ALL"
     ],
@@ -1353,15 +1343,6 @@
     "lat": 49.1291,
     "lon": -123.0184,
     "elev": 37
-  },
-  "CSM7": {
-    "name": "Abbotsford (Sumas Mountain) (H)",
-    "regions": [
-      "ALL"
-    ],
-    "lat": 49.1053,
-    "lon": -122.1974,
-    "elev": 1067
   },
   "CSR6": {
     "name": "Sonora Resort (H)",
@@ -1391,7 +1372,7 @@
     "elev": 1539
   },
   "CVS3": {
-    "name": "Surrey Memorial hosp Helipad",
+    "name": "Surrey Memorial hosp (H)",
     "regions": [
       "ALL"
     ],
@@ -1418,7 +1399,7 @@
     "elev": 48
   },
   "CWFM": {
-    "name": "Chatham Point Light Station Helipad",
+    "name": "Chatham Point Light Station (H)",
     "regions": [
       "ALL"
     ],
@@ -1427,7 +1408,7 @@
     "elev": 75
   },
   "CWIF": {
-    "name": "Quatsino Light Station Helipad",
+    "name": "Quatsino Light Station (H)",
     "regions": [
       "ALL"
     ],
@@ -1436,7 +1417,7 @@
     "elev": 35
   },
   "CWZM": {
-    "name": "Boat Bluff Lighthouse Helipad",
+    "name": "Boat Bluff Lighthouse (H)",
     "regions": [
       "ALL"
     ],
@@ -1503,7 +1484,7 @@
     "Freq": 133.95
   },
   "CYCG": {
-    "name": "Castlegar/West Kootenay Regional (A)",
+    "name": "Castlegar/West Kootenay (A)",
     "regions": [
       "ALL"
     ],
@@ -1603,7 +1584,7 @@
     "Freq": 122.8
   },
   "CYHE": {
-    "name": "Hope (A) / FVRD Regional Airpark",
+    "name": "Hope (A)",
     "regions": [
       "ALL"
     ],
@@ -1632,7 +1613,7 @@
     "elev": 162
   },
   "CYKA": {
-    "name": "Kamloops John Moose Fulton Field Regional (A)",
+    "name": "Kamloops (A)",
     "regions": [
       "ALL"
     ],
@@ -1642,7 +1623,7 @@
     "Freq": 121.9
   },
   "CYKT": {
-    "name": "Tranquille Valley Airfield",
+    "name": "Tranquille Valley (A)",
     "regions": [
       "ALL"
     ],
@@ -1840,7 +1821,7 @@
     "Freq": 122.3
   },
   "CYXC": {
-    "name": "Cranbrook/Canadian Rockies INT (A)",
+    "name": "Cranbrook INT (A)",
     "regions": [
       "ALL"
     ],
@@ -1850,7 +1831,7 @@
     "Freq": 122.3
   },
   "CYXJ": {
-    "name": "Fort St John / North Peace Regional (A)",
+    "name": "Fort St John (A)",
     "regions": [
       "ALL"
     ],
@@ -1870,7 +1851,7 @@
     "Freq": 118.3
   },
   "CYXT": {
-    "name": "Northwest Regional (A) Terrace-Kitimat",
+    "name": "Northwest Regional (A)",
     "regions": [
       "ALL"
     ],
@@ -1990,7 +1971,7 @@
     "Freq": 123.2
   },
   "CZML": {
-    "name": "South Cariboo Region / 108 Mile (A)",
+    "name": "South Cariboo (A)",
     "regions": [
       "ALL"
     ],
