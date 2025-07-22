@@ -25,7 +25,8 @@
       "name": "Smithers (Canadian) (H)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "prince rupert"
       ],
       "lat": 54.7723,
       "lon": -127.1416,
@@ -224,7 +225,8 @@
       "name": "Houston (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "prince rupert"
       ],
       "lat": 54.4403,
       "lon": -126.78,
@@ -274,7 +276,8 @@
       "name": "Moose Lake Lodge (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "prince rupert"
       ],
       "lat": 53.0738,
       "lon": -125.4084,
@@ -450,7 +453,8 @@
     "CBB6": {
       "name": "Bowser (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "prince rupert"
       ],
       "lat": 56.3952,
       "lon": -129.945,
@@ -470,7 +474,8 @@
       "name": "Bella Bella (Campbell Island) (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "prince rupert"
       ],
       "lat": 52.185,
       "lon": -128.157,
@@ -564,7 +569,8 @@
     "CBF6": {
       "name": "Seal Cove (Public) (H)",
       "regions": [
-        "ALL"
+        "ALL",
+        "prince rupert"
       ],
       "lat": 54.33,
       "lon": -130.278,
@@ -809,7 +815,8 @@
       "name": "Woodcock (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "prince rupert"
       ],
       "lat": 55.0667,
       "lon": -128.233,
@@ -848,7 +855,8 @@
     "CBR8": {
       "name": "Prince Rupert hosp",
       "regions": [
-        "ALL"
+        "ALL",
+        "prince rupert"
       ],
       "lat": 54.3051,
       "lon": -130.3302,
@@ -923,7 +931,8 @@
     "CBU4": {
       "name": "Prince Rupert (Hydro) (H)",
       "regions": [
-        "ALL"
+        "ALL",
+        "prince rupert"
       ],
       "lat": 54.3117,
       "lon": -130.294,
@@ -933,7 +942,8 @@
       "name": "Terrace hosp",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "prince rupert"
       ],
       "lat": 54.5109,
       "lon": -128.5976,
@@ -962,7 +972,8 @@
       "name": "Kitimat (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "prince rupert"
       ],
       "lat": 54.1678,
       "lon": -128.5787,
@@ -981,7 +992,8 @@
     "CBW4": {
       "name": "Bob Quinn Lake (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "prince rupert"
       ],
       "lat": 56.9667,
       "lon": -130.25,
@@ -1019,7 +1031,8 @@
     "CBY5": {
       "name": "Seal Cove (Coast Guard) (H)",
       "regions": [
-        "ALL"
+        "ALL",
+        "prince rupert"
       ],
       "lat": 54.3315,
       "lon": -130.2768,
@@ -1029,7 +1042,8 @@
       "name": "Kemano (H)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "prince rupert"
       ],
       "lat": 53.5625,
       "lon": -127.9486,
@@ -1348,7 +1362,8 @@
       "name": "Reef Hueston Helicopter Landing",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "prince rupert"
       ],
       "lat": 53.8231,
       "lon": -126.1722,
@@ -1386,7 +1401,8 @@
       "name": "Streatham Reef Hueston (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "prince rupert"
       ],
       "lat": 53.8226,
       "lon": -126.173,
@@ -1479,7 +1495,8 @@
       "name": "Boat Bluff Lighthouse (H)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "prince rupert"
       ],
       "lat": 52.6437,
       "lon": -128.5246,
@@ -1517,7 +1534,8 @@
       "name": "Bella Coola (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "prince rupert"
       ],
       "lat": 52.3875,
       "lon": -126.596,
@@ -1672,7 +1690,8 @@
       "name": "Denny Island (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "prince rupert"
       ],
       "lat": 52.1365,
       "lon": -128.0562,
@@ -1754,7 +1773,8 @@
     "CYPR": {
       "name": "Prince Rupert (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "prince rupert"
       ],
       "lat": 54.2861,
       "lon": -130.445,
@@ -1797,7 +1817,8 @@
       "name": "Burns Lake (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "prince rupert"
       ],
       "lat": 54.3764,
       "lon": -125.951,
@@ -1932,7 +1953,8 @@
       "name": "Northwest Regional (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "prince rupert"
       ],
       "lat": 54.4685,
       "lon": -128.576,
@@ -1953,7 +1975,8 @@
       "name": "Smithers (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "prince rupert"
       ],
       "lat": 54.8247,
       "lon": -127.183,
@@ -1993,7 +2016,8 @@
     "CYZP": {
       "name": "Sandspit (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "prince rupert"
       ],
       "lat": 53.2543,
       "lon": -131.814,
@@ -2066,7 +2090,8 @@
     "CZMT": {
       "name": "Masset (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "prince rupert"
       ],
       "lat": 54.0275,
       "lon": -132.125,
@@ -2086,7 +2111,8 @@
     "CZST": {
       "name": "Stewart (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "prince rupert"
       ],
       "lat": 55.9354,
       "lon": -129.9824,
@@ -2107,7 +2133,8 @@
       "name": "Dean River (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "prince rupert"
       ],
       "lat": 52.8237,
       "lon": -126.965,
