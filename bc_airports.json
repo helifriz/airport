@@ -41,7 +41,7 @@
     "elev": 1600
   },
   "CAA8": {
-    "name": "Invermere Airport",
+    "name": "Invermere APT",
     "regions": [
       "ALL"
     ],
@@ -60,7 +60,7 @@
     "elev": 1640
   },
   "CAD4": {
-    "name": "Trail Regional Airport",
+    "name": "Trail Regional APT",
     "regions": [
       "ALL"
     ],
@@ -70,7 +70,7 @@
     "Freq": 123.2
   },
   "CAD5": {
-    "name": "Merritt Airport",
+    "name": "Merritt APT",
     "regions": [
       "ALL"
     ],
@@ -89,7 +89,7 @@
     "elev": 3050
   },
   "CAF4": {
-    "name": "Tsuniah Lake Lodge Airport",
+    "name": "Tsuniah Lake Lodge APT",
     "regions": [
       "ALL"
     ],
@@ -98,7 +98,7 @@
     "elev": 4000
   },
   "CAG3": {
-    "name": "Chilko Lake Airport",
+    "name": "Chilko Lake APT",
     "regions": [
       "ALL"
     ],
@@ -117,7 +117,7 @@
     "Freq": 123.35
   },
   "CAH4": {
-    "name": "Valemount Airport",
+    "name": "Valemount APT",
     "regions": [
       "ALL"
     ],
@@ -127,7 +127,7 @@
     "Freq": 123.2
   },
   "CAJ3": {
-    "name": "Creston Valley Regional Airport",
+    "name": "Creston Valley Regional APT",
     "regions": [
       "ALL"
     ],
@@ -137,7 +137,7 @@
     "Freq": 122.8
   },
   "CAJ4": {
-    "name": "Anahim Lake Airport",
+    "name": "Anahim Lake APT",
     "regions": [
       "ALL"
     ],
@@ -147,7 +147,7 @@
     "Freq": 122.8
   },
   "CAJ9": {
-    "name": "Fort Ware Airport",
+    "name": "Fort Ware APT",
     "regions": [
       "ALL"
     ],
@@ -184,7 +184,7 @@
     "elev": 1515
   },
   "CAL3": {
-    "name": "Douglas Lake Airport",
+    "name": "Douglas Lake APT",
     "regions": [
       "ALL"
     ],
@@ -203,7 +203,7 @@
     "elev": 148
   },
   "CAM3": {
-    "name": "Duncan Airport",
+    "name": "Duncan APT",
     "regions": [
       "ALL"
     ],
@@ -213,7 +213,7 @@
     "Freq": 122.8
   },
   "CAM5": {
-    "name": "Houston Airport",
+    "name": "Houston APT",
     "regions": [
       "ALL"
     ],
@@ -223,7 +223,7 @@
     "Freq": 123.2
   },
   "CAP3": {
-    "name": "Sechelt-Gibsons Airport",
+    "name": "Sechelt-Gibsons APT",
     "regions": [
       "ALL"
     ],
@@ -232,7 +232,7 @@
     "elev": 340
   },
   "CAP6": {
-    "name": "Ingenika Airport",
+    "name": "Ingenika APT",
     "regions": [
       "ALL"
     ],
@@ -250,7 +250,7 @@
     "elev": 3250
   },
   "CAQ5": {
-    "name": "Nakusp Airport",
+    "name": "Nakusp APT",
     "regions": [
       "ALL"
     ],
@@ -260,7 +260,7 @@
     "Freq": 123.2
   },
   "CAS2": {
-    "name": "Moose Lake Lodge Airport",
+    "name": "Moose Lake Lodge APT",
     "regions": [
       "ALL"
     ],
@@ -278,7 +278,7 @@
     "elev": 282
   },
   "CAT4": {
-    "name": "Qualicum Beach Airport",
+    "name": "Qualicum Beach APT",
     "regions": [
       "ALL"
     ],
@@ -288,7 +288,7 @@
     "Freq": 122.8
   },
   "CAT5": {
-    "name": "Port McNeill Airport",
+    "name": "Port McNeill APT",
     "regions": [
       "ALL"
     ],
@@ -306,7 +306,7 @@
     "elev": 228
   },
   "CAU3": {
-    "name": "Oliver Airport",
+    "name": "Oliver APT",
     "regions": [
       "ALL"
     ],
@@ -316,7 +316,7 @@
     "Freq": 122.8
   },
   "CAU4": {
-    "name": "Vanderhoof Airport",
+    "name": "Vanderhoof APT",
     "regions": [
       "ALL"
     ],
@@ -326,7 +326,7 @@
     "Freq": 122.8
   },
   "CAV3": {
-    "name": "One Hundred Mile House Airport",
+    "name": "One Hundred Mile House APT",
     "regions": [
       "ALL"
     ],
@@ -335,7 +335,7 @@
     "elev": 3055
   },
   "CAV4": {
-    "name": "McBride Airport",
+    "name": "McBride APT",
     "regions": [
       "ALL"
     ],
@@ -344,7 +344,7 @@
     "elev": 2350
   },
   "CAW3": {
-    "name": "Scum Lake Airport",
+    "name": "Scum Lake APT",
     "regions": [
       "ALL"
     ],
@@ -362,7 +362,7 @@
     "elev": 2182
   },
   "CAX5": {
-    "name": "Likely Airport",
+    "name": "Likely APT",
     "regions": [
       "ALL"
     ],
@@ -380,7 +380,7 @@
     "elev": 1600
   },
   "CAZ5": {
-    "name": "Cache Creek-Ashcroft Regional Airport",
+    "name": "Cache Creek-Ashcroft Regional APT",
     "regions": [
       "ALL"
     ],
@@ -390,7 +390,7 @@
     "Freq": 123.2
   },
   "CBA8": {
-    "name": "Beaverley Airport",
+    "name": "Beaverley APT",
     "regions": [
       "ALL"
     ],
@@ -399,7 +399,7 @@
     "elev": 2420
   },
   "CBA9": {
-    "name": "Ospika Airport",
+    "name": "Ospika APT",
     "regions": [
       "ALL"
     ],
@@ -435,7 +435,7 @@
     "elev": 1452
   },
   "CBB9": {
-    "name": "Osoyoos Airport",
+    "name": "Osoyoos APT",
     "regions": [
       "ALL"
     ],
@@ -445,7 +445,7 @@
     "Freq": 123.2
   },
   "CBBC": {
-    "name": "Bella Bella (Campbell Island) Airport",
+    "name": "Bella Bella (Campbell Island) APT",
     "regions": [
       "ALL"
     ],
@@ -554,7 +554,7 @@
     "elev": 15
   },
   "CBF9": {
-    "name": "Mabel Lake Airport",
+    "name": "Mabel Lake APT",
     "regions": [
       "ALL"
     ],
@@ -563,7 +563,7 @@
     "elev": 1410
   },
   "CBG2": {
-    "name": "Green Lake Airport",
+    "name": "Green Lake APT",
     "regions": [
       "ALL"
     ],
@@ -591,7 +591,7 @@
     "Freq": 118.3
   },
   "CBH2": {
-    "name": "Helmet Airport",
+    "name": "Helmet APT",
     "regions": [
       "ALL"
     ],
@@ -600,7 +600,7 @@
     "elev": 1930
   },
   "CBJ4": {
-    "name": "Echo Valley Airport",
+    "name": "Echo Valley APT",
     "regions": [
       "ALL"
     ],
@@ -637,7 +637,7 @@
     "elev": 272
   },
   "CBK6": {
-    "name": "Quesnel Lake Airport",
+    "name": "Quesnel Lake APT",
     "regions": [
       "ALL"
     ],
@@ -646,7 +646,7 @@
     "elev": 2500
   },
   "CBK7": {
-    "name": "Mile 422 (Alaska Highway) Airport",
+    "name": "Mile 422 (Alaska Highway) APT",
     "regions": [
       "ALL"
     ],
@@ -682,7 +682,7 @@
     "elev": 1625
   },
   "CBL6": {
-    "name": "Radium Hot Springs Airport",
+    "name": "Radium Hot Springs APT",
     "regions": [
       "ALL"
     ],
@@ -700,7 +700,7 @@
     "elev": 230
   },
   "CBL9": {
-    "name": "Elkin Creek Guest Ranch Airport",
+    "name": "Elkin Creek Guest Ranch APT",
     "regions": [
       "ALL"
     ],
@@ -709,7 +709,7 @@
     "elev": 4080
   },
   "CBM6": {
-    "name": "Midway Airport",
+    "name": "Midway APT",
     "regions": [
       "ALL"
     ],
@@ -727,7 +727,7 @@
     "elev": 150
   },
   "CBN9": {
-    "name": "Tsay Keh Airport",
+    "name": "Tsay Keh APT",
     "regions": [
       "ALL"
     ],
@@ -763,7 +763,7 @@
     "elev": 700
   },
   "CBQ2": {
-    "name": "Fort Langley Airport",
+    "name": "Fort Langley APT",
     "regions": [
       "ALL"
     ],
@@ -772,7 +772,7 @@
     "elev": 30
   },
   "CBQ7": {
-    "name": "Kemess Creek Airport",
+    "name": "Kemess Creek APT",
     "regions": [
       "ALL"
     ],
@@ -781,7 +781,7 @@
     "elev": 4191
   },
   "CBQ8": {
-    "name": "Woodcock Airport",
+    "name": "Woodcock APT",
     "regions": [
       "ALL"
     ],
@@ -791,7 +791,7 @@
     "Freq": 123.2
   },
   "CBR2": {
-    "name": "Kaslo Airport",
+    "name": "Kaslo APT",
     "regions": [
       "ALL"
     ],
@@ -828,7 +828,7 @@
     "elev": 279
   },
   "CBS4": {
-    "name": "Mule Creek Airport",
+    "name": "Mule Creek APT",
     "regions": [
       "ALL"
     ],
@@ -846,7 +846,7 @@
     "elev": 85
   },
   "CBS8": {
-    "name": "Alberni Valley Regional Airport",
+    "name": "Alberni Valley Regional APT",
     "regions": [
       "ALL"
     ],
@@ -856,7 +856,7 @@
     "Freq": 123.0
   },
   "CBT3": {
-    "name": "Tsetzi Lake (Pan Phillips) Airport",
+    "name": "Tsetzi Lake (Pan Phillips) APT",
     "regions": [
       "ALL"
     ],
@@ -883,7 +883,7 @@
     "elev": 103
   },
   "CBU2": {
-    "name": "Eddontenajon / Iskut Village Airport",
+    "name": "Eddontenajon / Iskut Village APT",
     "regions": [
       "ALL"
     ],
@@ -929,7 +929,7 @@
     "elev": 60
   },
   "CBW2": {
-    "name": "Kitimat Airport",
+    "name": "Kitimat APT",
     "regions": [
       "ALL"
     ],
@@ -938,7 +938,7 @@
     "elev": 250
   },
   "CBW3": {
-    "name": "Fort Grahame Airport",
+    "name": "Fort Grahame APT",
     "regions": [
       "ALL"
     ],
@@ -947,7 +947,7 @@
     "elev": 2230
   },
   "CBW4": {
-    "name": "Bob Quinn Lake Airport",
+    "name": "Bob Quinn Lake APT",
     "regions": [
       "ALL"
     ],
@@ -974,7 +974,7 @@
     "elev": 35
   },
   "CBX7": {
-    "name": "Tumbler Ridge Airport",
+    "name": "Tumbler Ridge APT",
     "regions": [
       "ALL"
     ],
@@ -1011,7 +1011,7 @@
     "elev": 10
   },
   "CBZ9": {
-    "name": "Fraser Lake Airport",
+    "name": "Fraser Lake APT",
     "regions": [
       "ALL"
     ],
@@ -1021,7 +1021,7 @@
     "Freq": 122.8
   },
   "CCI9": {
-    "name": "Cortes Island Airport",
+    "name": "Cortes Island APT",
     "regions": [
       "ALL"
     ],
@@ -1057,7 +1057,7 @@
     "elev": 1632
   },
   "CDC3": {
-    "name": "Flying L Ranch Airport",
+    "name": "Flying L Ranch APT",
     "regions": [
       "ALL"
     ],
@@ -1247,7 +1247,7 @@
     "elev": 2711
   },
   "CML2": {
-    "name": "Quamichan Lake Airport",
+    "name": "Quamichan Lake APT",
     "regions": [
       "ALL"
     ],
@@ -1310,7 +1310,7 @@
     "elev": null
   },
   "CRC3": {
-    "name": "Ross Creek Airport",
+    "name": "Ross Creek APT",
     "regions": [
       "ALL"
     ],
@@ -1445,7 +1445,7 @@
     "elev": 44
   },
   "CYAL": {
-    "name": "Alert Bay Airport",
+    "name": "Alert Bay APT",
     "regions": [
       "ALL"
     ],
@@ -1454,7 +1454,7 @@
     "elev": 240
   },
   "CYAZ": {
-    "name": "Tofino / Long Beach Airport",
+    "name": "Tofino / Long Beach APT",
     "regions": [
       "ALL"
     ],
@@ -1473,7 +1473,7 @@
     "elev": 1830
   },
   "CYBD": {
-    "name": "Bella Coola Airport",
+    "name": "Bella Coola APT",
     "regions": [
       "ALL"
     ],
@@ -1483,7 +1483,7 @@
     "Freq": 122.8
   },
   "CYBL": {
-    "name": "Campbell River Airport",
+    "name": "Campbell River APT",
     "regions": [
       "ALL"
     ],
@@ -1493,7 +1493,7 @@
     "Freq": 122.0
   },
   "CYCD": {
-    "name": "Nanaimo Airport",
+    "name": "Nanaimo APT",
     "regions": [
       "ALL"
     ],
@@ -1503,7 +1503,7 @@
     "Freq": 133.95
   },
   "CYCG": {
-    "name": "Castlegar/West Kootenay Regional Airport",
+    "name": "Castlegar/West Kootenay Regional APT",
     "regions": [
       "ALL"
     ],
@@ -1513,7 +1513,7 @@
     "Freq": 122.1
   },
   "CYCP": {
-    "name": "Blue River Airport",
+    "name": "Blue River APT",
     "regions": [
       "ALL"
     ],
@@ -1523,7 +1523,7 @@
     "Freq": 123.2
   },
   "CYCQ": {
-    "name": "Chetwynd Airport",
+    "name": "Chetwynd APT",
     "regions": [
       "ALL"
     ],
@@ -1533,7 +1533,7 @@
     "Freq": 123.2
   },
   "CYCW": {
-    "name": "Chilliwack Airport",
+    "name": "Chilliwack APT",
     "regions": [
       "ALL"
     ],
@@ -1543,7 +1543,7 @@
     "Freq": 122.7
   },
   "CYCZ": {
-    "name": "Fairmont Hot Springs Airport",
+    "name": "Fairmont Hot Springs APT",
     "regions": [
       "ALL"
     ],
@@ -1553,7 +1553,7 @@
     "Freq": 123.2
   },
   "CYDC": {
-    "name": "Princeton Airport",
+    "name": "Princeton APT",
     "regions": [
       "ALL"
     ],
@@ -1563,7 +1563,7 @@
     "Freq": 123.2
   },
   "CYDL": {
-    "name": "Dease Lake Airport",
+    "name": "Dease Lake APT",
     "regions": [
       "ALL"
     ],
@@ -1573,7 +1573,7 @@
     "Freq": 123.2
   },
   "CYDQ": {
-    "name": "Dawson Creek Airport",
+    "name": "Dawson Creek APT",
     "regions": [
       "ALL"
     ],
@@ -1583,7 +1583,7 @@
     "Freq": 122.2
   },
   "CYGB": {
-    "name": "Texada Gillies Bay Airport",
+    "name": "Texada Gillies Bay APT",
     "regions": [
       "ALL"
     ],
@@ -1593,7 +1593,7 @@
     "Freq": 122.7
   },
   "CYGE": {
-    "name": "Golden Airport",
+    "name": "Golden APT",
     "regions": [
       "ALL"
     ],
@@ -1603,7 +1603,7 @@
     "Freq": 122.8
   },
   "CYHE": {
-    "name": "Hope Airport / FVRD Regional Airpark",
+    "name": "Hope APT / FVRD Regional Airpark",
     "regions": [
       "ALL"
     ],
@@ -1613,7 +1613,7 @@
     "Freq": 123.3
   },
   "CYJM": {
-    "name": "Fort St James Airport",
+    "name": "Fort St James APT",
     "regions": [
       "ALL"
     ],
@@ -1623,7 +1623,7 @@
     "Freq": 123.2
   },
   "CYJQ": {
-    "name": "Denny Island Airport",
+    "name": "Denny Island APT",
     "regions": [
       "ALL"
     ],
@@ -1632,7 +1632,7 @@
     "elev": 162
   },
   "CYKA": {
-    "name": "Kamloops John Moose Fulton Field Regional Airport",
+    "name": "Kamloops John Moose Fulton Field Regional APT",
     "regions": [
       "ALL"
     ],
@@ -1651,7 +1651,7 @@
     "elev": null
   },
   "CYLI": {
-    "name": "Lillooet Airport",
+    "name": "Lillooet APT",
     "regions": [
       "ALL"
     ],
@@ -1661,7 +1661,7 @@
     "Freq": 123.2
   },
   "CYLW": {
-    "name": "Kelowna International Airport",
+    "name": "Kelowna INT APT",
     "regions": [
       "ALL"
     ],
@@ -1671,7 +1671,7 @@
     "Freq": 119.6
   },
   "CYNH": {
-    "name": "Hudson's Hope Airport",
+    "name": "Hudson's Hope APT",
     "regions": [
       "ALL"
     ],
@@ -1681,7 +1681,7 @@
     "Freq": 123.2
   },
   "CYNJ": {
-    "name": "Langley Airport",
+    "name": "Langley APT",
     "regions": [
       "ALL"
     ],
@@ -1691,7 +1691,7 @@
     "Freq": 119.0
   },
   "CYPK": {
-    "name": "Pitt Meadows Airport",
+    "name": "Pitt Meadows APT",
     "regions": [
       "ALL"
     ],
@@ -1701,7 +1701,7 @@
     "Freq": 126.3
   },
   "CYPR": {
-    "name": "Prince Rupert Airport",
+    "name": "Prince Rupert APT",
     "regions": [
       "ALL"
     ],
@@ -1711,7 +1711,7 @@
     "Freq": 122.5
   },
   "CYPS": {
-    "name": "Pemberton Regional Airport",
+    "name": "Pemberton Regional APT",
     "regions": [
       "ALL"
     ],
@@ -1721,7 +1721,7 @@
     "Freq": 123.2
   },
   "CYPU": {
-    "name": "Puntzi Mountain Airport",
+    "name": "Puntzi Mountain APT",
     "regions": [
       "ALL"
     ],
@@ -1731,7 +1731,7 @@
     "Freq": 126.7
   },
   "CYPW": {
-    "name": "Powell River Airport",
+    "name": "Powell River APT",
     "regions": [
       "ALL"
     ],
@@ -1741,7 +1741,7 @@
     "Freq": 123.0
   },
   "CYPZ": {
-    "name": "Burns Lake Airport",
+    "name": "Burns Lake APT",
     "regions": [
       "ALL"
     ],
@@ -1751,7 +1751,7 @@
     "Freq": 122.7
   },
   "CYQQ": {
-    "name": "Comox Valley Airport / CFB Comox",
+    "name": "Comox Valley APT / CFB Comox",
     "regions": [
       "ALL"
     ],
@@ -1761,7 +1761,7 @@
     "Freq": 126.2
   },
   "CYQZ": {
-    "name": "Quesnel Airport",
+    "name": "Quesnel APT",
     "regions": [
       "ALL"
     ],
@@ -1771,7 +1771,7 @@
     "Freq": 122.2
   },
   "CYRV": {
-    "name": "Revelstoke Airport",
+    "name": "Revelstoke APT",
     "regions": [
       "ALL"
     ],
@@ -1781,7 +1781,7 @@
     "Freq": 122.8
   },
   "CYSE": {
-    "name": "Squamish Airport",
+    "name": "Squamish APT",
     "regions": [
       "ALL"
     ],
@@ -1791,7 +1791,7 @@
     "Freq": 122.8
   },
   "CYSQ": {
-    "name": "Atlin Airport",
+    "name": "Atlin APT",
     "regions": [
       "ALL"
     ],
@@ -1800,7 +1800,7 @@
     "elev": 2348
   },
   "CYSW": {
-    "name": "Sparwood Elk Valley Airport",
+    "name": "Sparwood Elk Valley APT",
     "regions": [
       "ALL"
     ],
@@ -1810,7 +1810,7 @@
     "Freq": 123.2
   },
   "CYVK": {
-    "name": "Vernon Regional Airport",
+    "name": "Vernon Regional APT",
     "regions": [
       "ALL"
     ],
@@ -1820,7 +1820,7 @@
     "Freq": 122.8
   },
   "CYVR": {
-    "name": "Vancouver International Airport",
+    "name": "Vancouver INT APT",
     "regions": [
       "ALL"
     ],
@@ -1830,7 +1830,7 @@
     "Freq": 118.7
   },
   "CYWL": {
-    "name": "Williams Lake Airport",
+    "name": "Williams Lake APT",
     "regions": [
       "ALL"
     ],
@@ -1840,7 +1840,7 @@
     "Freq": 122.3
   },
   "CYXC": {
-    "name": "Cranbrook/Canadian Rockies International Airport",
+    "name": "Cranbrook/Canadian Rockies INT APT",
     "regions": [
       "ALL"
     ],
@@ -1850,7 +1850,7 @@
     "Freq": 122.3
   },
   "CYXJ": {
-    "name": "Fort St John / North Peace Regional Airport",
+    "name": "Fort St John / North Peace Regional APT",
     "regions": [
       "ALL"
     ],
@@ -1860,7 +1860,7 @@
     "Freq": 118.5
   },
   "CYXS": {
-    "name": "Prince George Airport",
+    "name": "Prince George APT",
     "regions": [
       "ALL"
     ],
@@ -1870,7 +1870,7 @@
     "Freq": 118.3
   },
   "CYXT": {
-    "name": "Northwest Regional Airport Terrace-Kitimat",
+    "name": "Northwest Regional APT Terrace-Kitimat",
     "regions": [
       "ALL"
     ],
@@ -1880,7 +1880,7 @@
     "Freq": 122.0
   },
   "CYXX": {
-    "name": "Abbotsford International Airport",
+    "name": "Abbotsford INT APT",
     "regions": [
       "ALL"
     ],
@@ -1890,7 +1890,7 @@
     "Freq": 119.4
   },
   "CYYD": {
-    "name": "Smithers Airport",
+    "name": "Smithers APT",
     "regions": [
       "ALL"
     ],
@@ -1900,7 +1900,7 @@
     "Freq": 122.3
   },
   "CYYE": {
-    "name": "Fort Nelson Airport",
+    "name": "Fort Nelson APT",
     "regions": [
       "ALL"
     ],
@@ -1910,7 +1910,7 @@
     "Freq": 125.65
   },
   "CYYF": {
-    "name": "Penticton Airport",
+    "name": "Penticton APT",
     "regions": [
       "ALL"
     ],
@@ -1920,7 +1920,7 @@
     "Freq": 118.5
   },
   "CYYJ": {
-    "name": "Victoria International Airport",
+    "name": "Victoria INT APT",
     "regions": [
       "ALL"
     ],
@@ -1930,7 +1930,7 @@
     "Freq": 119.1
   },
   "CYZP": {
-    "name": "Sandspit Airport",
+    "name": "Sandspit APT",
     "regions": [
       "ALL"
     ],
@@ -1940,7 +1940,7 @@
     "Freq": 122.3
   },
   "CYZT": {
-    "name": "Port Hardy Airport",
+    "name": "Port Hardy APT",
     "regions": [
       "ALL"
     ],
@@ -1950,7 +1950,7 @@
     "Freq": 122.2
   },
   "CYZY": {
-    "name": "Mackenzie Airport",
+    "name": "Mackenzie APT",
     "regions": [
       "ALL"
     ],
@@ -1960,7 +1960,7 @@
     "Freq": 126.7
   },
   "CZAM": {
-    "name": "Shuswap Regional Airport",
+    "name": "Shuswap Regional APT",
     "regions": [
       "ALL"
     ],
@@ -1970,7 +1970,7 @@
     "Freq": 122.9
   },
   "CZBB": {
-    "name": "Boundary Bay Airport",
+    "name": "Boundary Bay APT",
     "regions": [
       "ALL"
     ],
@@ -1980,7 +1980,7 @@
     "Freq": 118.1
   },
   "CZGF": {
-    "name": "Grand Forks Airport",
+    "name": "Grand Forks APT",
     "regions": [
       "ALL"
     ],
@@ -1990,7 +1990,7 @@
     "Freq": 123.2
   },
   "CZML": {
-    "name": "South Cariboo Region / 108 Mile Airport",
+    "name": "South Cariboo Region / 108 Mile APT",
     "regions": [
       "ALL"
     ],
@@ -2000,7 +2000,7 @@
     "Freq": 134.0
   },
   "CZMT": {
-    "name": "Masset Airport",
+    "name": "Masset APT",
     "regions": [
       "ALL"
     ],
@@ -2010,7 +2010,7 @@
     "Freq": 122.7
   },
   "CZNL": {
-    "name": "Nelson Airport",
+    "name": "Nelson APT",
     "regions": [
       "ALL"
     ],
@@ -2020,7 +2020,7 @@
     "Freq": 123.2
   },
   "CZST": {
-    "name": "Stewart Airport",
+    "name": "Stewart APT",
     "regions": [
       "ALL"
     ],
@@ -2039,7 +2039,7 @@
     "elev": null
   },
   "YRD": {
-    "name": "Dean River Airport",
+    "name": "Dean River APT",
     "regions": [
       "ALL"
     ],
