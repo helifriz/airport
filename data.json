@@ -49,7 +49,8 @@
         "Vancouver",
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.0362,
       "lon": -122.314,
@@ -83,7 +84,8 @@
         "ALL",
         "prince george",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 50.1225,
       "lon": -120.7454,
@@ -106,7 +108,8 @@
         "ALL",
         "prince george",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 51.5264,
       "lon": -124.164,
@@ -118,7 +121,8 @@
         "ALL",
         "prince george",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 51.6258,
       "lon": -124.1445,
@@ -129,7 +133,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.6792,
       "lon": -124.9806,
@@ -185,7 +190,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.0774,
       "lon": -122.941,
@@ -197,7 +203,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.2438,
       "lon": -123.1271,
@@ -219,7 +226,8 @@
         "ALL",
         "prince george",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 50.1655,
       "lon": -120.1713,
@@ -231,7 +239,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 48.8625,
       "lon": -123.5087,
@@ -242,7 +251,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 48.7545,
       "lon": -123.7097,
@@ -266,7 +276,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.4606,
       "lon": -123.719,
@@ -288,7 +299,8 @@
         "ALL",
         "prince george",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 51.9549,
       "lon": -122.14,
@@ -321,7 +333,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.3074,
       "lon": -124.4133,
@@ -332,7 +345,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.3375,
       "lon": -124.3931,
@@ -343,7 +357,8 @@
       "name": "Port McNeill (A)",
       "regions": [
         "ALL",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 50.5735,
       "lon": -127.0277,
@@ -354,7 +369,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 50.0086,
       "lon": -125.2428,
@@ -412,7 +428,8 @@
         "ALL",
         "prince george",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 51.7954,
       "lon": -123.5816,
@@ -424,7 +441,8 @@
         "ALL",
         "prince george",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 50.1203,
       "lon": -122.9547,
@@ -458,7 +476,8 @@
         "ALL",
         "prince george",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 50.7753,
       "lon": -121.3213,
@@ -490,7 +509,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 48.8,
       "lon": -123.4236,
@@ -499,7 +519,8 @@
     "CBB5": {
       "name": "Port Alice (hosp)",
       "regions": [
-        "ALL"
+        "ALL",
+        "parksville"
       ],
       "lat": 50.4258,
       "lon": -127.4886,
@@ -545,7 +566,8 @@
         "ALL",
         "prince george",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 50.669,
       "lon": -120.333,
@@ -556,7 +578,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.2869,
       "lon": -123.1061,
@@ -566,7 +589,8 @@
       "name": "Tofino General hosp",
       "regions": [
         "ALL",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.1511,
       "lon": -125.909,
@@ -577,7 +601,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.12,
       "lon": -123.0473,
@@ -589,7 +614,8 @@
         "ALL",
         "prince george",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 51.7419,
       "lon": -124.7389,
@@ -610,7 +636,8 @@
         "ALL",
         "prince george",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 50.1684,
       "lon": -122.9048,
@@ -621,7 +648,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.1328,
       "lon": -122.3436,
@@ -632,7 +660,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 48.8467,
       "lon": -123.2842,
@@ -653,7 +682,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 48.4181,
       "lon": -123.388,
@@ -676,7 +706,8 @@
         "ALL",
         "prince george",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 51.4294,
       "lon": -121.21,
@@ -687,7 +718,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.1857,
       "lon": -123.9718,
@@ -708,7 +740,8 @@
         "ALL",
         "prince george",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 51.2417,
       "lon": -121.9898,
@@ -719,7 +752,8 @@
       "name": "San Juan Point (Coast Guard) (H)",
       "regions": [
         "ALL",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 48.5315,
       "lon": -124.4582,
@@ -730,7 +764,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.2619,
       "lon": -123.1244,
@@ -741,7 +776,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.2488,
       "lon": -124.783,
@@ -772,7 +808,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 48.4343,
       "lon": -123.3252,
@@ -783,7 +820,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 48.8964,
       "lon": -123.418,
@@ -814,7 +852,8 @@
         "ALL",
         "prince george",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 50.0586,
       "lon": -124.982,
@@ -826,7 +865,8 @@
         "ALL",
         "prince george",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 51.5105,
       "lon": -123.8062,
@@ -847,7 +887,8 @@
       "name": "Port McNeill hosp",
       "regions": [
         "ALL",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 50.5817,
       "lon": -127.0668,
@@ -877,7 +918,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.4762,
       "lon": -123.7486,
@@ -889,7 +931,8 @@
         "ALL",
         "prince george",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 50.6851,
       "lon": -121.9272,
@@ -900,7 +943,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.1675,
       "lon": -122.555,
@@ -945,7 +989,8 @@
         "ALL",
         "prince george",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 51.2668,
       "lon": -121.6858,
@@ -955,7 +1000,8 @@
       "name": "Tofino Lifeboat Station Helipad",
       "regions": [
         "ALL",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.1547,
       "lon": -125.9081,
@@ -983,7 +1029,8 @@
     "CBS5": {
       "name": "Port Hardy hosp",
       "regions": [
-        "ALL"
+        "ALL",
+        "parksville"
       ],
       "lat": 50.7206,
       "lon": -127.5026,
@@ -994,7 +1041,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.3219,
       "lon": -124.931,
@@ -1026,7 +1074,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.2898,
       "lon": -124.9391,
@@ -1079,7 +1128,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.6751,
       "lon": -124.9412,
@@ -1121,7 +1171,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 48.468,
       "lon": -123.4324,
@@ -1132,7 +1183,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 48.8558,
       "lon": -123.486,
@@ -1175,7 +1227,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 48.4232,
       "lon": -123.3875,
@@ -1198,7 +1251,8 @@
         "ALL",
         "prince george",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 50.0203,
       "lon": -124.984,
@@ -1210,7 +1264,8 @@
         "ALL",
         "prince george",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 50.0413,
       "lon": -125.2686,
@@ -1221,7 +1276,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.6669,
       "lon": -125.0977,
@@ -1263,7 +1319,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 48.7862,
       "lon": -123.7214,
@@ -1274,7 +1331,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.1608,
       "lon": -123.9232,
@@ -1316,7 +1374,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.2916,
       "lon": -122.7921,
@@ -1327,7 +1386,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.1783,
       "lon": -123.8353,
@@ -1349,7 +1409,8 @@
         "ALL",
         "prince george",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 50.8897,
       "lon": -122.847,
@@ -1360,7 +1421,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.2546,
       "lon": -122.9352,
@@ -1370,7 +1432,8 @@
       "name": "Gold River (E & B Helicopters) (H)",
       "regions": [
         "ALL",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.7533,
       "lon": -126.0556,
@@ -1381,7 +1444,8 @@
       "name": "The Ridge (H)",
       "regions": [
         "ALL",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.7832,
       "lon": -126.0437,
@@ -1445,7 +1509,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 48.8328,
       "lon": -123.505,
@@ -1467,7 +1532,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 48.8119,
       "lon": -123.651,
@@ -1488,7 +1554,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.1848,
       "lon": -123.9892,
@@ -1510,7 +1577,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.2267,
       "lon": -122.8923,
@@ -1521,7 +1589,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.8514,
       "lon": -124.5175,
@@ -1554,7 +1623,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.011,
       "lon": -122.6722,
@@ -1587,7 +1657,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.1291,
       "lon": -123.0184,
@@ -1599,7 +1670,8 @@
         "ALL",
         "prince george",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 50.3817,
       "lon": -125.1576,
@@ -1610,7 +1682,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.1269,
       "lon": -122.395,
@@ -1632,7 +1705,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.176,
       "lon": -122.8437,
@@ -1653,7 +1727,8 @@
       "name": "Nootka Lightstation Helipad",
       "regions": [
         "ALL",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.5922,
       "lon": -126.6164,
@@ -1665,7 +1740,8 @@
         "ALL",
         "prince george",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 50.3331,
       "lon": -125.4453,
@@ -1674,7 +1750,8 @@
     "CWIF": {
       "name": "Quatsino Light Station (H)",
       "regions": [
-        "ALL"
+        "ALL",
+        "parksville"
       ],
       "lat": 50.4417,
       "lon": -128.0315,
@@ -1695,7 +1772,8 @@
       "name": "Alert Bay (A)",
       "regions": [
         "ALL",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 50.5822,
       "lon": -126.916,
@@ -1705,7 +1783,8 @@
       "name": "Tofino / Long Beach (A)",
       "regions": [
         "ALL",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.0798,
       "lon": -125.7756,
@@ -1739,7 +1818,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.9508,
       "lon": -125.271,
@@ -1751,7 +1831,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.055,
       "lon": -123.8699,
@@ -1797,7 +1878,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.1532,
       "lon": -121.9393,
@@ -1820,7 +1902,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.4681,
       "lon": -120.511,
@@ -1853,7 +1936,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.6943,
       "lon": -124.5181,
@@ -1876,7 +1960,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.3689,
       "lon": -121.495,
@@ -1911,7 +1996,8 @@
         "ALL",
         "prince george",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 50.703,
       "lon": -120.4486,
@@ -1924,7 +2010,8 @@
         "ALL",
         "prince george",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 50.8595,
       "lon": -120.6711,
@@ -1936,7 +2023,8 @@
         "ALL",
         "prince george",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 50.6747,
       "lon": -121.894,
@@ -1971,7 +2059,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.1008,
       "lon": -122.631,
@@ -1983,7 +2072,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.2161,
       "lon": -122.71,
@@ -2007,7 +2097,8 @@
         "ALL",
         "prince george",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 50.3025,
       "lon": -122.738,
@@ -2020,7 +2111,8 @@
         "ALL",
         "prince george",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 52.1128,
       "lon": -124.145,
@@ -2032,7 +2124,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.8342,
       "lon": -124.5,
@@ -2056,7 +2149,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.7108,
       "lon": -124.887,
@@ -2093,7 +2187,8 @@
         "ALL",
         "prince george",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.7817,
       "lon": -123.162,
@@ -2136,7 +2231,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.1939,
       "lon": -123.184,
@@ -2204,7 +2300,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.0253,
       "lon": -122.361,
@@ -2250,7 +2347,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 48.6472,
       "lon": -123.4278,
@@ -2271,7 +2369,8 @@
     "CYZT": {
       "name": "Port Hardy (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "parksville"
       ],
       "lat": 50.6806,
       "lon": -127.367,
@@ -2307,7 +2406,8 @@
       "regions": [
         "ALL",
         "kamloops",
-        "vancouver"
+        "vancouver",
+        "parksville"
       ],
       "lat": 49.0742,
       "lon": -123.012,
@@ -2376,7 +2476,8 @@
       "regions": [
         "ALL",
         "prince george",
-        "kamloops"
+        "kamloops",
+        "parksville"
       ],
       "lat": 52.2188,
       "lon": -123.4495,
