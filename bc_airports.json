@@ -32,7 +32,7 @@
     "elev": 287
   },
   "CAA6": {
-    "name": "Smithers (Canadian) Heliport",
+    "name": "Smithers (Canadian) HPT",
     "regions": [
       "ALL"
     ],
@@ -51,7 +51,7 @@
     "Freq": 123.2
   },
   "CAB7": {
-    "name": "Kelowna (Alpine) Heliport",
+    "name": "Kelowna (Alpine) HPT",
     "regions": [
       "ALL"
     ],
@@ -269,7 +269,7 @@
     "elev": 3500
   },
   "CAS5": {
-    "name": "Aerosmith Heli Service Heliport",
+    "name": "Aerosmith Heli Service HPT",
     "regions": [
       "ALL"
     ],
@@ -464,7 +464,7 @@
     "elev": 1349
   },
   "CBC7": {
-    "name": "Harbour Heliport",
+    "name": "Harbour HPT",
     "regions": [
       "ALL"
     ],
@@ -482,7 +482,7 @@
     "elev": 50
   },
   "CBD2": {
-    "name": "Delta (North) Heliport",
+    "name": "Delta (North) HPT",
     "regions": [
       "ALL"
     ],
@@ -491,7 +491,7 @@
     "elev": 10
   },
   "CBD9": {
-    "name": "White Saddle Ranch Heliport",
+    "name": "White Saddle Ranch HPT",
     "regions": [
       "ALL"
     ],
@@ -509,7 +509,7 @@
     "elev": 2850
   },
   "CBE9": {
-    "name": "Whistler (Municipal) Heliport",
+    "name": "Whistler (Municipal) HPT",
     "regions": [
       "ALL"
     ],
@@ -518,7 +518,7 @@
     "elev": 2116
   },
   "CBF4": {
-    "name": "Mission (Public Safety) Heliport",
+    "name": "Mission (Public Safety) HPT",
     "regions": [
       "ALL"
     ],
@@ -527,7 +527,7 @@
     "elev": 85
   },
   "CBF5": {
-    "name": "Mayne Island (Medical Emergency) Heliport",
+    "name": "Mayne Island (Medical Emergency) HPT",
     "regions": [
       "ALL"
     ],
@@ -536,7 +536,7 @@
     "elev": 100
   },
   "CBF6": {
-    "name": "Seal Cove (Public) Heliport",
+    "name": "Seal Cove (Public) HPT",
     "regions": [
       "ALL"
     ],
@@ -545,7 +545,7 @@
     "elev": 17
   },
   "CBF7": {
-    "name": "Victoria Harbour (Camel Point) Heliport",
+    "name": "Victoria Harbour (Camel Point) HPT",
     "regions": [
       "ALL"
     ],
@@ -581,7 +581,7 @@
     "elev": 292
   },
   "CBG8": {
-    "name": "Prince George (Pacific Western Helicopters) Heliport",
+    "name": "Prince George (Pacific Western Helicopters) HPT",
     "regions": [
       "ALL"
     ],
@@ -610,7 +610,7 @@
     "Freq": 123.2
   },
   "CBJ9": {
-    "name": "San Juan Point (Coast Guard) Heliport",
+    "name": "San Juan Point (Coast Guard) HPT",
     "regions": [
       "ALL"
     ],
@@ -664,7 +664,7 @@
     "elev": 50
   },
   "CBK9": {
-    "name": "Little Parker Island Heliport",
+    "name": "Little Parker Island HPT",
     "regions": [
       "ALL"
     ],
@@ -691,7 +691,7 @@
     "elev": 2650
   },
   "CBL7": {
-    "name": "Cortes Island Heliport",
+    "name": "Cortes Island HPT",
     "regions": [
       "ALL"
     ],
@@ -754,7 +754,7 @@
     "elev": 179
   },
   "CBP5": {
-    "name": "Blackcomb Helicopters Heliport",
+    "name": "Blackcomb Helicopters HPT",
     "regions": [
       "ALL"
     ],
@@ -874,7 +874,7 @@
     "elev": 2575
   },
   "CBT9": {
-    "name": "Sproat Lake Tanker Base Heliport",
+    "name": "Sproat Lake Tanker Base HPT",
     "regions": [
       "ALL"
     ],
@@ -893,7 +893,7 @@
     "Freq": 123.2
   },
   "CBU4": {
-    "name": "Prince Rupert (Hydro) Heliport",
+    "name": "Prince Rupert (Hydro) HPT",
     "regions": [
       "ALL"
     ],
@@ -911,7 +911,7 @@
     "elev": 250
   },
   "CBV7": {
-    "name": "Valemount (Yellowhead Helicopters) Heliport",
+    "name": "Valemount (Yellowhead Helicopters) HPT",
     "regions": [
       "ALL"
     ],
@@ -965,7 +965,7 @@
     "elev": 55
   },
   "CBW9": {
-    "name": "Madrona Bay Heliport",
+    "name": "Madrona Bay HPT",
     "regions": [
       "ALL"
     ],
@@ -984,7 +984,7 @@
     "Freq": 123.2
   },
   "CBY5": {
-    "name": "Seal Cove (Coast Guard) Heliport",
+    "name": "Seal Cove (Coast Guard) HPT",
     "regions": [
       "ALL"
     ],
@@ -993,7 +993,7 @@
     "elev": 17
   },
   "CBZ2": {
-    "name": "Kemano Heliport",
+    "name": "Kemano HPT",
     "regions": [
       "ALL"
     ],
@@ -1002,7 +1002,7 @@
     "elev": 160
   },
   "CBZ7": {
-    "name": "Victoria Harbour (Shoal Point) Heliport",
+    "name": "Victoria Harbour (Shoal Point) HPT",
     "regions": [
       "ALL"
     ],
@@ -1030,7 +1030,7 @@
     "elev": 164
   },
   "CCR6": {
-    "name": "Campbell River (E & B Heli) Heliport",
+    "name": "Campbell River (E & B Heli) HPT",
     "regions": [
       "ALL"
     ],
@@ -1048,7 +1048,7 @@
     "elev": 500
   },
   "CCT3": {
-    "name": "Castlegar (Tarrys Convention Centre) Heliport",
+    "name": "Castlegar (Tarrys Convention Centre) HPT",
     "regions": [
       "ALL"
     ],
@@ -1084,7 +1084,7 @@
     "elev": 132
   },
   "CDH5": {
-    "name": "Nanaimo Harbour Heliport",
+    "name": "Nanaimo Harbour HPT",
     "regions": [
       "ALL"
     ],
@@ -1093,7 +1093,7 @@
     "elev": 12
   },
   "CFH2": {
-    "name": "Frontline Helicopters Heliport",
+    "name": "Frontline Helicopters HPT",
     "regions": [
       "ALL"
     ],
@@ -1111,7 +1111,7 @@
     "elev": 2304
   },
   "CFN8": {
-    "name": "Fort Nelson (Guardian) Heliport",
+    "name": "Fort Nelson (Guardian) HPT",
     "regions": [
       "ALL"
     ],
@@ -1120,7 +1120,7 @@
     "elev": 1292
   },
   "CFR6": {
-    "name": "Vancouver / Coquitlam Fire and Rescue Heliport",
+    "name": "Vancouver / Coquitlam Fire and Rescue HPT",
     "regions": [
       "ALL"
     ],
@@ -1138,7 +1138,7 @@
     "elev": 341
   },
   "CGF4": {
-    "name": "Boundary Hospital Heliport",
+    "name": "Boundary Hospital HPT",
     "regions": [
       "ALL"
     ],
@@ -1147,7 +1147,7 @@
     "elev": 1747
   },
   "CGL5": {
-    "name": "Gun Lake Heliport",
+    "name": "Gun Lake HPT",
     "regions": [
       "ALL"
     ],
@@ -1156,7 +1156,7 @@
     "elev": 2950
   },
   "CGL6": {
-    "name": "Vancouver / Burnaby (Global BC) Heliport",
+    "name": "Vancouver / Burnaby (Global BC) HPT",
     "regions": [
       "ALL"
     ],
@@ -1165,7 +1165,7 @@
     "elev": 262
   },
   "CGR2": {
-    "name": "Gold River (E & B Helicopters) Heliport",
+    "name": "Gold River (E & B Helicopters) HPT",
     "regions": [
       "ALL"
     ],
@@ -1175,7 +1175,7 @@
     "Freq": 123.2
   },
   "CGR4": {
-    "name": "The Ridge Heliport",
+    "name": "The Ridge HPT",
     "regions": [
       "ALL"
     ],
@@ -1184,7 +1184,7 @@
     "elev": 478
   },
   "CHT4": {
-    "name": "Nelson (High Terrain Helicopters) Heliport",
+    "name": "Nelson (High Terrain Helicopters) HPT",
     "regions": [
       "ALL"
     ],
@@ -1193,7 +1193,7 @@
     "elev": 1950
   },
   "CIV2": {
-    "name": "Invermere (Hospital) Heliport",
+    "name": "Invermere (Hospital) HPT",
     "regions": [
       "ALL"
     ],
@@ -1229,7 +1229,7 @@
     "elev": 1180
   },
   "CMBH": {
-    "name": "Mount Belcher Heliport",
+    "name": "Mount Belcher HPT",
     "regions": [
       "ALL"
     ],
@@ -1238,7 +1238,7 @@
     "elev": 1000
   },
   "CMH6": {
-    "name": "Canadian Mountain Holidays Heliport",
+    "name": "Canadian Mountain Holidays HPT",
     "regions": [
       "ALL"
     ],
@@ -1265,7 +1265,7 @@
     "elev": 1769
   },
   "CNH9": {
-    "name": "Nanaimo (West Coast) Heliport",
+    "name": "Nanaimo (West Coast) HPT",
     "regions": [
       "ALL"
     ],
@@ -1274,7 +1274,7 @@
     "elev": 200
   },
   "CNM6": {
-    "name": "Naramata Heliport",
+    "name": "Naramata HPT",
     "regions": [
       "ALL"
     ],
@@ -1283,7 +1283,7 @@
     "elev": 1856
   },
   "CNW9": {
-    "name": "New Westminster (Royal Columbian Hospital) Heliport",
+    "name": "New Westminster (Royal Columbian Hospital) HPT",
     "regions": [
       "ALL"
     ],
@@ -1292,7 +1292,7 @@
     "elev": 124
   },
   "CPW8": {
-    "name": "Powell River (Hospital) Heliport",
+    "name": "Powell River (Hospital) HPT",
     "regions": [
       "ALL"
     ],
@@ -1319,7 +1319,7 @@
     "elev": 1257
   },
   "CRF2": {
-    "name": "Langley (Russell Farm) Heliport",
+    "name": "Langley (Russell Farm) HPT",
     "regions": [
       "ALL"
     ],
@@ -1328,7 +1328,7 @@
     "elev": 250
   },
   "CRG2": {
-    "name": "Argus Heliport",
+    "name": "Argus HPT",
     "regions": [
       "ALL"
     ],
@@ -1346,7 +1346,7 @@
     "elev": null
   },
   "CSE7": {
-    "name": "Delta (SEI) Heliport",
+    "name": "Delta (SEI) HPT",
     "regions": [
       "ALL"
     ],
@@ -1355,7 +1355,7 @@
     "elev": 37
   },
   "CSM7": {
-    "name": "Abbotsford (Sumas Mountain) Heliport",
+    "name": "Abbotsford (Sumas Mountain) HPT",
     "regions": [
       "ALL"
     ],
@@ -1364,7 +1364,7 @@
     "elev": 1067
   },
   "CSR6": {
-    "name": "Sonora Resort Heliport",
+    "name": "Sonora Resort HPT",
     "regions": [
       "ALL"
     ],
@@ -1373,7 +1373,7 @@
     "elev": 46
   },
   "CTK8": {
-    "name": "Abbotsford (Teck) Heliport",
+    "name": "Abbotsford (Teck) HPT",
     "regions": [
       "ALL"
     ],
@@ -1382,7 +1382,7 @@
     "elev": 165
   },
   "CVA3": {
-    "name": "Valhalla Heliport",
+    "name": "Valhalla HPT",
     "regions": [
       "ALL"
     ],
@@ -1400,7 +1400,7 @@
     "elev": 245
   },
   "CWC2": {
-    "name": "Kelowna (Wildcat Helicopters) Heliport",
+    "name": "Kelowna (Wildcat Helicopters) HPT",
     "regions": [
       "ALL"
     ],
@@ -1464,7 +1464,7 @@
     "Freq": 132.9
   },
   "CYB3": {
-    "name": "Nelson/Baylock Estate Heliport",
+    "name": "Nelson/Baylock Estate HPT",
     "regions": [
       "ALL"
     ],
