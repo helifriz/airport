@@ -22,7 +22,7 @@
   "MAX_TAKEOFF_WEIGHT": 4800,
   "waypoints": {
   "CAB5": {
-    "name": "Abbotsford (Regional Hospital)",
+    "name": "Abbotsford (Regional hosp)",
     "regions": [
         "Vancouver",
         "ALL"
@@ -80,7 +80,7 @@
     "Freq": 123.2
   },
   "CAE2": {
-    "name": "Cranbrook (East Kootenay Regional Hospital",
+    "name": "Cranbrook (East Kootenay Regional hosp",
     "regions": [
       "ALL"
     ],
@@ -175,7 +175,7 @@
     "elev": 225
   },
   "CAL2": {
-    "name": "Arrow Lakes Hospital",
+    "name": "Arrow Lakes hosp",
     "regions": [
       "ALL"
     ],
@@ -194,7 +194,7 @@
     "Freq": 123.2
   },
   "CAL7": {
-    "name": "Ganges (Lady Minto Hospital)",
+    "name": "Ganges (Lady Minto hosp)",
     "regions": [
       "ALL"
     ],
@@ -297,7 +297,7 @@
     "elev": 225
   },
   "CAT6": {
-    "name": "Campbell River (General Hospital)",
+    "name": "Campbell River (General hosp)",
     "regions": [
       "ALL"
     ],
@@ -353,7 +353,7 @@
     "elev": 3950
   },
   "CAW4": {
-    "name": "Whistler (Hospital)",
+    "name": "Whistler (hosp)",
     "regions": [
       "ALL"
     ],
@@ -371,7 +371,7 @@
     "elev": 3225
   },
   "CAZ4": {
-    "name": "Quesnel (G.R. Baker Memorial Hospital)",
+    "name": "Quesnel (G.R. Baker Memorial hosp)",
     "regions": [
       "ALL"
     ],
@@ -417,7 +417,7 @@
     "elev": 717
   },
   "CBB5": {
-    "name": "Port Alice (Hospital)",
+    "name": "Port Alice (hosp)",
     "regions": [
       "ALL"
     ],
@@ -455,7 +455,7 @@
     "Freq": 122.8
   },
   "CBC4": {
-    "name": "Kamloops (Royal Inland Hospital)",
+    "name": "Kamloops (Royal Inland hosp)",
     "regions": [
       "ALL"
     ],
@@ -473,7 +473,7 @@
     "elev": 2
   },
   "CBC8": {
-    "name": "Tofino General Hospital",
+    "name": "Tofino General hosp",
     "regions": [
       "ALL"
     ],
@@ -572,7 +572,7 @@
     "elev": 3550
   },
   "CBG5": {
-    "name": "Nanaimo (Regional General Hospital)",
+    "name": "Nanaimo (Regional General hosp)",
     "regions": [
       "ALL"
     ],
@@ -619,7 +619,7 @@
     "elev": 25
   },
   "CBK4": {
-    "name": "Vancouver General Hospital",
+    "name": "Vancouver General hosp",
     "regions": [
       "ALL"
     ],
@@ -628,7 +628,7 @@
     "elev": 235
   },
   "CBK5": {
-    "name": "Port Alberni (West Coast General Hospital)",
+    "name": "Port Alberni (West Coast General hosp)",
     "regions": [
       "ALL"
     ],
@@ -655,7 +655,7 @@
     "elev": 2400
   },
   "CBK8": {
-    "name": "Victoria (Royal Jubilee Hospital)",
+    "name": "Victoria (Royal Jubilee hosp)",
     "regions": [
       "ALL"
     ],
@@ -718,7 +718,7 @@
     "elev": 1896
   },
   "CBM9": {
-    "name": "Port McNeill (Hospital)",
+    "name": "Port McNeill (hosp)",
     "regions": [
       "ALL"
     ],
@@ -736,7 +736,7 @@
     "elev": 2280
   },
   "CBP3": {
-    "name": "Fernie (Elk Valley Hospital)",
+    "name": "Fernie (Elk Valley hosp)",
     "regions": [
       "ALL"
     ],
@@ -745,7 +745,7 @@
     "elev": 3300
   },
   "CBP4": {
-    "name": "Sechelt (St. Mary's Hospital)",
+    "name": "Sechelt (St. Mary's hosp)",
     "regions": [
       "ALL"
     ],
@@ -819,7 +819,7 @@
     "elev": 10
   },
   "CBR8": {
-    "name": "Prince Rupert (Hospital)",
+    "name": "Prince Rupert (hosp)",
     "regions": [
       "ALL"
     ],
@@ -837,7 +837,7 @@
     "elev": 2900
   },
   "CBS5": {
-    "name": "Port Hardy (Hospital",
+    "name": "Port Hardy (hosp",
     "regions": [
       "ALL"
     ],
@@ -865,7 +865,7 @@
     "elev": 3550
   },
   "CBT5": {
-    "name": "Golden (Golden & District General Hospital)",
+    "name": "Golden (Golden & District General hosp)",
     "regions": [
       "ALL"
     ],
@@ -902,7 +902,7 @@
     "elev": 98
   },
   "CBU5": {
-    "name": "Terrace (Mills Memorial Hospital)",
+    "name": "Terrace (Mills Memorial hosp)",
     "regions": [
       "ALL"
     ],
@@ -920,7 +920,7 @@
     "elev": 2600
   },
   "CBV8": {
-    "name": "Comox (St. Joseph's Hospital)",
+    "name": "Comox (St. Joseph's hosp)",
     "regions": [
       "ALL"
     ],
@@ -956,7 +956,7 @@
     "elev": 2000
   },
   "CBW7": {
-    "name": "Victoria (General Hospital)",
+    "name": "Victoria (General hosp)",
     "regions": [
       "ALL"
     ],
@@ -1075,7 +1075,7 @@
     "elev": 3060
   },
   "CDH4": {
-    "name": "Cowichan District Hospital",
+    "name": "Cowichan District hosp",
     "regions": [
       "ALL"
     ],
@@ -1102,7 +1102,7 @@
     "elev": 2644
   },
   "CFJ7": {
-    "name": "Fort St. John (Hospital)",
+    "name": "Fort St. John (hosp)",
     "regions": [
       "ALL"
     ],
@@ -1138,7 +1138,7 @@
     "elev": 341
   },
   "CGF4": {
-    "name": "Boundary Hospital (H)",
+    "name": "Boundary hosp (H)",
     "regions": [
       "ALL"
     ],
@@ -1193,7 +1193,7 @@
     "elev": 1950
   },
   "CIV2": {
-    "name": "Invermere (Hospital) (H)",
+    "name": "Invermere (hosp) (H)",
     "regions": [
       "ALL"
     ],
@@ -1211,7 +1211,7 @@
     "elev": null
   },
   "CKB3": {
-    "name": "Kootenay Boundary Regional Hospital",
+    "name": "Kootenay Boundary Regional hosp",
     "regions": [
       "ALL"
     ],
@@ -1220,7 +1220,7 @@
     "elev": 1526
   },
   "CKH9": {
-    "name": "Kelowna General Hospital",
+    "name": "Kelowna General hosp",
     "regions": [
       "ALL"
     ],
@@ -1256,7 +1256,7 @@
     "elev": 130
   },
   "CND7": {
-    "name": "Slocan Community Hospital Helipad",
+    "name": "Slocan Community hosp Helipad",
     "regions": [
       "ALL"
     ],
@@ -1283,7 +1283,7 @@
     "elev": 1856
   },
   "CNW9": {
-    "name": "New Westminster (Royal Columbian Hospital) (H)",
+    "name": "New Westminster (Royal Columbian hosp) (H)",
     "regions": [
       "ALL"
     ],
@@ -1292,7 +1292,7 @@
     "elev": 124
   },
   "CPW8": {
-    "name": "Powell River (Hospital) (H)",
+    "name": "Powell River (hosp) (H)",
     "regions": [
       "ALL"
     ],
@@ -1391,7 +1391,7 @@
     "elev": 1539
   },
   "CVS3": {
-    "name": "Surrey Memorial Hospital Helipad",
+    "name": "Surrey Memorial hosp Helipad",
     "regions": [
       "ALL"
     ],
