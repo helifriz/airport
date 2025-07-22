@@ -21,16 +21,6 @@
   "MIN_FUEL": 100,
   "MAX_TAKEOFF_WEIGHT": 4800,
   "waypoints": {
-  "CAB5": {
-    "name": "Abbotsford hosp",
-    "regions": [
-        "Vancouver",
-        "ALL"
-      ],
-    "lat": 49.0362,
-    "lon": -122.3140,
-    "elev": 287
-  },
   "CAA6": {
     "name": "Smithers (Canadian) (H)",
     "regions": [
@@ -49,6 +39,16 @@
     "lon": -116.0058,
     "elev": 2820,
     "Freq": 123.2
+  },
+    "CAB5": {
+    "name": "Abbotsford hosp",
+    "regions": [
+        "Vancouver",
+        "ALL"
+      ],
+    "lat": 49.0362,
+    "lon": -122.3140,
+    "elev": 287
   },
   "CAB7": {
     "name": "Kelowna (Alpine) (H)",
