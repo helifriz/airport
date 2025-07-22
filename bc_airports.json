@@ -32,7 +32,7 @@
     "elev": 287
   },
   "CAA6": {
-    "name": "Smithers (Canadian) HPT",
+    "name": "Smithers (Canadian) (H)",
     "regions": [
       "ALL"
     ],
@@ -41,7 +41,7 @@
     "elev": 1600
   },
   "CAA8": {
-    "name": "Invermere APT",
+    "name": "Invermere (A)",
     "regions": [
       "ALL"
     ],
@@ -51,7 +51,7 @@
     "Freq": 123.2
   },
   "CAB7": {
-    "name": "Kelowna (Alpine) HPT",
+    "name": "Kelowna (Alpine) (H)",
     "regions": [
       "ALL"
     ],
@@ -60,7 +60,7 @@
     "elev": 1640
   },
   "CAD4": {
-    "name": "Trail Regional APT",
+    "name": "Trail Regional (A)",
     "regions": [
       "ALL"
     ],
@@ -70,7 +70,7 @@
     "Freq": 123.2
   },
   "CAD5": {
-    "name": "Merritt APT",
+    "name": "Merritt (A)",
     "regions": [
       "ALL"
     ],
@@ -89,7 +89,7 @@
     "elev": 3050
   },
   "CAF4": {
-    "name": "Tsuniah Lake Lodge APT",
+    "name": "Tsuniah Lake Lodge (A)",
     "regions": [
       "ALL"
     ],
@@ -98,7 +98,7 @@
     "elev": 4000
   },
   "CAG3": {
-    "name": "Chilko Lake APT",
+    "name": "Chilko Lake (A)",
     "regions": [
       "ALL"
     ],
@@ -117,7 +117,7 @@
     "Freq": 123.35
   },
   "CAH4": {
-    "name": "Valemount APT",
+    "name": "Valemount (A)",
     "regions": [
       "ALL"
     ],
@@ -127,7 +127,7 @@
     "Freq": 123.2
   },
   "CAJ3": {
-    "name": "Creston Valley Regional APT",
+    "name": "Creston Valley Regional (A)",
     "regions": [
       "ALL"
     ],
@@ -137,7 +137,7 @@
     "Freq": 122.8
   },
   "CAJ4": {
-    "name": "Anahim Lake APT",
+    "name": "Anahim Lake (A)",
     "regions": [
       "ALL"
     ],
@@ -147,7 +147,7 @@
     "Freq": 122.8
   },
   "CAJ9": {
-    "name": "Fort Ware APT",
+    "name": "Fort Ware (A)",
     "regions": [
       "ALL"
     ],
@@ -184,7 +184,7 @@
     "elev": 1515
   },
   "CAL3": {
-    "name": "Douglas Lake APT",
+    "name": "Douglas Lake (A)",
     "regions": [
       "ALL"
     ],
@@ -203,7 +203,7 @@
     "elev": 148
   },
   "CAM3": {
-    "name": "Duncan APT",
+    "name": "Duncan (A)",
     "regions": [
       "ALL"
     ],
@@ -213,7 +213,7 @@
     "Freq": 122.8
   },
   "CAM5": {
-    "name": "Houston APT",
+    "name": "Houston (A)",
     "regions": [
       "ALL"
     ],
@@ -223,7 +223,7 @@
     "Freq": 123.2
   },
   "CAP3": {
-    "name": "Sechelt-Gibsons APT",
+    "name": "Sechelt-Gibsons (A)",
     "regions": [
       "ALL"
     ],
@@ -232,7 +232,7 @@
     "elev": 340
   },
   "CAP6": {
-    "name": "Ingenika APT",
+    "name": "Ingenika (A)",
     "regions": [
       "ALL"
     ],
@@ -250,7 +250,7 @@
     "elev": 3250
   },
   "CAQ5": {
-    "name": "Nakusp APT",
+    "name": "Nakusp (A)",
     "regions": [
       "ALL"
     ],
@@ -260,7 +260,7 @@
     "Freq": 123.2
   },
   "CAS2": {
-    "name": "Moose Lake Lodge APT",
+    "name": "Moose Lake Lodge (A)",
     "regions": [
       "ALL"
     ],
@@ -269,7 +269,7 @@
     "elev": 3500
   },
   "CAS5": {
-    "name": "Aerosmith Heli Service HPT",
+    "name": "Aerosmith Heli Service (H)",
     "regions": [
       "ALL"
     ],
@@ -278,7 +278,7 @@
     "elev": 282
   },
   "CAT4": {
-    "name": "Qualicum Beach APT",
+    "name": "Qualicum Beach (A)",
     "regions": [
       "ALL"
     ],
@@ -288,7 +288,7 @@
     "Freq": 122.8
   },
   "CAT5": {
-    "name": "Port McNeill APT",
+    "name": "Port McNeill (A)",
     "regions": [
       "ALL"
     ],
@@ -306,7 +306,7 @@
     "elev": 228
   },
   "CAU3": {
-    "name": "Oliver APT",
+    "name": "Oliver (A)",
     "regions": [
       "ALL"
     ],
@@ -316,7 +316,7 @@
     "Freq": 122.8
   },
   "CAU4": {
-    "name": "Vanderhoof APT",
+    "name": "Vanderhoof (A)",
     "regions": [
       "ALL"
     ],
@@ -326,7 +326,7 @@
     "Freq": 122.8
   },
   "CAV3": {
-    "name": "One Hundred Mile House APT",
+    "name": "One Hundred Mile House (A)",
     "regions": [
       "ALL"
     ],
@@ -335,7 +335,7 @@
     "elev": 3055
   },
   "CAV4": {
-    "name": "McBride APT",
+    "name": "McBride (A)",
     "regions": [
       "ALL"
     ],
@@ -344,7 +344,7 @@
     "elev": 2350
   },
   "CAW3": {
-    "name": "Scum Lake APT",
+    "name": "Scum Lake (A)",
     "regions": [
       "ALL"
     ],
@@ -362,7 +362,7 @@
     "elev": 2182
   },
   "CAX5": {
-    "name": "Likely APT",
+    "name": "Likely (A)",
     "regions": [
       "ALL"
     ],
@@ -380,7 +380,7 @@
     "elev": 1600
   },
   "CAZ5": {
-    "name": "Cache Creek-Ashcroft Regional APT",
+    "name": "Cache Creek-Ashcroft Regional (A)",
     "regions": [
       "ALL"
     ],
@@ -390,7 +390,7 @@
     "Freq": 123.2
   },
   "CBA8": {
-    "name": "Beaverley APT",
+    "name": "Beaverley (A)",
     "regions": [
       "ALL"
     ],
@@ -399,7 +399,7 @@
     "elev": 2420
   },
   "CBA9": {
-    "name": "Ospika APT",
+    "name": "Ospika (A)",
     "regions": [
       "ALL"
     ],
@@ -435,7 +435,7 @@
     "elev": 1452
   },
   "CBB9": {
-    "name": "Osoyoos APT",
+    "name": "Osoyoos (A)",
     "regions": [
       "ALL"
     ],
@@ -445,7 +445,7 @@
     "Freq": 123.2
   },
   "CBBC": {
-    "name": "Bella Bella (Campbell Island) APT",
+    "name": "Bella Bella (Campbell Island) (A)",
     "regions": [
       "ALL"
     ],
@@ -464,7 +464,7 @@
     "elev": 1349
   },
   "CBC7": {
-    "name": "Harbour HPT",
+    "name": "Harbour (H)",
     "regions": [
       "ALL"
     ],
@@ -482,7 +482,7 @@
     "elev": 50
   },
   "CBD2": {
-    "name": "Delta (North) HPT",
+    "name": "Delta (North) (H)",
     "regions": [
       "ALL"
     ],
@@ -491,7 +491,7 @@
     "elev": 10
   },
   "CBD9": {
-    "name": "White Saddle Ranch HPT",
+    "name": "White Saddle Ranch (H)",
     "regions": [
       "ALL"
     ],
@@ -509,7 +509,7 @@
     "elev": 2850
   },
   "CBE9": {
-    "name": "Whistler (Municipal) HPT",
+    "name": "Whistler (Municipal) (H)",
     "regions": [
       "ALL"
     ],
@@ -518,7 +518,7 @@
     "elev": 2116
   },
   "CBF4": {
-    "name": "Mission (Public Safety) HPT",
+    "name": "Mission (Public Safety) (H)",
     "regions": [
       "ALL"
     ],
@@ -527,7 +527,7 @@
     "elev": 85
   },
   "CBF5": {
-    "name": "Mayne Island (Medical Emergency) HPT",
+    "name": "Mayne Island (Medical Emergency) (H)",
     "regions": [
       "ALL"
     ],
@@ -536,7 +536,7 @@
     "elev": 100
   },
   "CBF6": {
-    "name": "Seal Cove (Public) HPT",
+    "name": "Seal Cove (Public) (H)",
     "regions": [
       "ALL"
     ],
@@ -545,7 +545,7 @@
     "elev": 17
   },
   "CBF7": {
-    "name": "Victoria Harbour (Camel Point) HPT",
+    "name": "Victoria Harbour (Camel Point) (H)",
     "regions": [
       "ALL"
     ],
@@ -554,7 +554,7 @@
     "elev": 15
   },
   "CBF9": {
-    "name": "Mabel Lake APT",
+    "name": "Mabel Lake (A)",
     "regions": [
       "ALL"
     ],
@@ -563,7 +563,7 @@
     "elev": 1410
   },
   "CBG2": {
-    "name": "Green Lake APT",
+    "name": "Green Lake (A)",
     "regions": [
       "ALL"
     ],
@@ -581,7 +581,7 @@
     "elev": 292
   },
   "CBG8": {
-    "name": "Prince George (Pacific Western Helicopters) HPT",
+    "name": "Prince George (Pacific Western Helicopters) (H)",
     "regions": [
       "ALL"
     ],
@@ -591,7 +591,7 @@
     "Freq": 118.3
   },
   "CBH2": {
-    "name": "Helmet APT",
+    "name": "Helmet (A)",
     "regions": [
       "ALL"
     ],
@@ -600,7 +600,7 @@
     "elev": 1930
   },
   "CBJ4": {
-    "name": "Echo Valley APT",
+    "name": "Echo Valley (A)",
     "regions": [
       "ALL"
     ],
@@ -610,7 +610,7 @@
     "Freq": 123.2
   },
   "CBJ9": {
-    "name": "San Juan Point (Coast Guard) HPT",
+    "name": "San Juan Point (Coast Guard) (H)",
     "regions": [
       "ALL"
     ],
@@ -637,7 +637,7 @@
     "elev": 272
   },
   "CBK6": {
-    "name": "Quesnel Lake APT",
+    "name": "Quesnel Lake (A)",
     "regions": [
       "ALL"
     ],
@@ -646,7 +646,7 @@
     "elev": 2500
   },
   "CBK7": {
-    "name": "Mile 422 (Alaska Highway) APT",
+    "name": "Mile 422 (Alaska Highway) (A)",
     "regions": [
       "ALL"
     ],
@@ -664,7 +664,7 @@
     "elev": 50
   },
   "CBK9": {
-    "name": "Little Parker Island HPT",
+    "name": "Little Parker Island (H)",
     "regions": [
       "ALL"
     ],
@@ -682,7 +682,7 @@
     "elev": 1625
   },
   "CBL6": {
-    "name": "Radium Hot Springs APT",
+    "name": "Radium Hot Springs (A)",
     "regions": [
       "ALL"
     ],
@@ -691,7 +691,7 @@
     "elev": 2650
   },
   "CBL7": {
-    "name": "Cortes Island HPT",
+    "name": "Cortes Island (H)",
     "regions": [
       "ALL"
     ],
@@ -700,7 +700,7 @@
     "elev": 230
   },
   "CBL9": {
-    "name": "Elkin Creek Guest Ranch APT",
+    "name": "Elkin Creek Guest Ranch (A)",
     "regions": [
       "ALL"
     ],
@@ -709,7 +709,7 @@
     "elev": 4080
   },
   "CBM6": {
-    "name": "Midway APT",
+    "name": "Midway (A)",
     "regions": [
       "ALL"
     ],
@@ -727,7 +727,7 @@
     "elev": 150
   },
   "CBN9": {
-    "name": "Tsay Keh APT",
+    "name": "Tsay Keh (A)",
     "regions": [
       "ALL"
     ],
@@ -754,7 +754,7 @@
     "elev": 179
   },
   "CBP5": {
-    "name": "Blackcomb Helicopters HPT",
+    "name": "Blackcomb Helicopters (H)",
     "regions": [
       "ALL"
     ],
@@ -763,7 +763,7 @@
     "elev": 700
   },
   "CBQ2": {
-    "name": "Fort Langley APT",
+    "name": "Fort Langley (A)",
     "regions": [
       "ALL"
     ],
@@ -772,7 +772,7 @@
     "elev": 30
   },
   "CBQ7": {
-    "name": "Kemess Creek APT",
+    "name": "Kemess Creek (A)",
     "regions": [
       "ALL"
     ],
@@ -781,7 +781,7 @@
     "elev": 4191
   },
   "CBQ8": {
-    "name": "Woodcock APT",
+    "name": "Woodcock (A)",
     "regions": [
       "ALL"
     ],
@@ -791,7 +791,7 @@
     "Freq": 123.2
   },
   "CBR2": {
-    "name": "Kaslo APT",
+    "name": "Kaslo (A)",
     "regions": [
       "ALL"
     ],
@@ -828,7 +828,7 @@
     "elev": 279
   },
   "CBS4": {
-    "name": "Mule Creek APT",
+    "name": "Mule Creek (A)",
     "regions": [
       "ALL"
     ],
@@ -846,7 +846,7 @@
     "elev": 85
   },
   "CBS8": {
-    "name": "Alberni Valley Regional APT",
+    "name": "Alberni Valley Regional (A)",
     "regions": [
       "ALL"
     ],
@@ -856,7 +856,7 @@
     "Freq": 123.0
   },
   "CBT3": {
-    "name": "Tsetzi Lake (Pan Phillips) APT",
+    "name": "Tsetzi Lake (Pan Phillips) (A)",
     "regions": [
       "ALL"
     ],
@@ -874,7 +874,7 @@
     "elev": 2575
   },
   "CBT9": {
-    "name": "Sproat Lake Tanker Base HPT",
+    "name": "Sproat Lake Tanker Base (H)",
     "regions": [
       "ALL"
     ],
@@ -883,7 +883,7 @@
     "elev": 103
   },
   "CBU2": {
-    "name": "Eddontenajon / Iskut Village APT",
+    "name": "Eddontenajon / Iskut Village (A)",
     "regions": [
       "ALL"
     ],
@@ -893,7 +893,7 @@
     "Freq": 123.2
   },
   "CBU4": {
-    "name": "Prince Rupert (Hydro) HPT",
+    "name": "Prince Rupert (Hydro) (H)",
     "regions": [
       "ALL"
     ],
@@ -911,7 +911,7 @@
     "elev": 250
   },
   "CBV7": {
-    "name": "Valemount (Yellowhead Helicopters) HPT",
+    "name": "Valemount (Yellowhead Helicopters) (H)",
     "regions": [
       "ALL"
     ],
@@ -929,7 +929,7 @@
     "elev": 60
   },
   "CBW2": {
-    "name": "Kitimat APT",
+    "name": "Kitimat (A)",
     "regions": [
       "ALL"
     ],
@@ -938,7 +938,7 @@
     "elev": 250
   },
   "CBW3": {
-    "name": "Fort Grahame APT",
+    "name": "Fort Grahame (A)",
     "regions": [
       "ALL"
     ],
@@ -947,7 +947,7 @@
     "elev": 2230
   },
   "CBW4": {
-    "name": "Bob Quinn Lake APT",
+    "name": "Bob Quinn Lake (A)",
     "regions": [
       "ALL"
     ],
@@ -965,7 +965,7 @@
     "elev": 55
   },
   "CBW9": {
-    "name": "Madrona Bay HPT",
+    "name": "Madrona Bay (H)",
     "regions": [
       "ALL"
     ],
@@ -974,7 +974,7 @@
     "elev": 35
   },
   "CBX7": {
-    "name": "Tumbler Ridge APT",
+    "name": "Tumbler Ridge (A)",
     "regions": [
       "ALL"
     ],
@@ -984,7 +984,7 @@
     "Freq": 123.2
   },
   "CBY5": {
-    "name": "Seal Cove (Coast Guard) HPT",
+    "name": "Seal Cove (Coast Guard) (H)",
     "regions": [
       "ALL"
     ],
@@ -993,7 +993,7 @@
     "elev": 17
   },
   "CBZ2": {
-    "name": "Kemano HPT",
+    "name": "Kemano (H)",
     "regions": [
       "ALL"
     ],
@@ -1002,7 +1002,7 @@
     "elev": 160
   },
   "CBZ7": {
-    "name": "Victoria Harbour (Shoal Point) HPT",
+    "name": "Victoria Harbour (Shoal Point) (H)",
     "regions": [
       "ALL"
     ],
@@ -1011,7 +1011,7 @@
     "elev": 10
   },
   "CBZ9": {
-    "name": "Fraser Lake APT",
+    "name": "Fraser Lake (A)",
     "regions": [
       "ALL"
     ],
@@ -1021,7 +1021,7 @@
     "Freq": 122.8
   },
   "CCI9": {
-    "name": "Cortes Island APT",
+    "name": "Cortes Island (A)",
     "regions": [
       "ALL"
     ],
@@ -1030,7 +1030,7 @@
     "elev": 164
   },
   "CCR6": {
-    "name": "Campbell River (E & B Heli) HPT",
+    "name": "Campbell River (E & B Heli) (H)",
     "regions": [
       "ALL"
     ],
@@ -1048,7 +1048,7 @@
     "elev": 500
   },
   "CCT3": {
-    "name": "Castlegar (Tarrys Convention Centre) HPT",
+    "name": "Castlegar (Tarrys Convention Centre) (H)",
     "regions": [
       "ALL"
     ],
@@ -1057,7 +1057,7 @@
     "elev": 1632
   },
   "CDC3": {
-    "name": "Flying L Ranch APT",
+    "name": "Flying L Ranch (A)",
     "regions": [
       "ALL"
     ],
@@ -1084,7 +1084,7 @@
     "elev": 132
   },
   "CDH5": {
-    "name": "Nanaimo Harbour HPT",
+    "name": "Nanaimo Harbour (H)",
     "regions": [
       "ALL"
     ],
@@ -1093,7 +1093,7 @@
     "elev": 12
   },
   "CFH2": {
-    "name": "Frontline Helicopters HPT",
+    "name": "Frontline Helicopters (H)",
     "regions": [
       "ALL"
     ],
@@ -1111,7 +1111,7 @@
     "elev": 2304
   },
   "CFN8": {
-    "name": "Fort Nelson (Guardian) HPT",
+    "name": "Fort Nelson (Guardian) (H)",
     "regions": [
       "ALL"
     ],
@@ -1120,7 +1120,7 @@
     "elev": 1292
   },
   "CFR6": {
-    "name": "Vancouver / Coquitlam Fire and Rescue HPT",
+    "name": "Vancouver / Coquitlam Fire and Rescue (H)",
     "regions": [
       "ALL"
     ],
@@ -1138,7 +1138,7 @@
     "elev": 341
   },
   "CGF4": {
-    "name": "Boundary Hospital HPT",
+    "name": "Boundary Hospital (H)",
     "regions": [
       "ALL"
     ],
@@ -1147,7 +1147,7 @@
     "elev": 1747
   },
   "CGL5": {
-    "name": "Gun Lake HPT",
+    "name": "Gun Lake (H)",
     "regions": [
       "ALL"
     ],
@@ -1156,7 +1156,7 @@
     "elev": 2950
   },
   "CGL6": {
-    "name": "Vancouver / Burnaby (Global BC) HPT",
+    "name": "Vancouver / Burnaby (Global BC) (H)",
     "regions": [
       "ALL"
     ],
@@ -1165,7 +1165,7 @@
     "elev": 262
   },
   "CGR2": {
-    "name": "Gold River (E & B Helicopters) HPT",
+    "name": "Gold River (E & B Helicopters) (H)",
     "regions": [
       "ALL"
     ],
@@ -1175,7 +1175,7 @@
     "Freq": 123.2
   },
   "CGR4": {
-    "name": "The Ridge HPT",
+    "name": "The Ridge (H)",
     "regions": [
       "ALL"
     ],
@@ -1184,7 +1184,7 @@
     "elev": 478
   },
   "CHT4": {
-    "name": "Nelson (High Terrain Helicopters) HPT",
+    "name": "Nelson (High Terrain Helicopters) (H)",
     "regions": [
       "ALL"
     ],
@@ -1193,7 +1193,7 @@
     "elev": 1950
   },
   "CIV2": {
-    "name": "Invermere (Hospital) HPT",
+    "name": "Invermere (Hospital) (H)",
     "regions": [
       "ALL"
     ],
@@ -1229,7 +1229,7 @@
     "elev": 1180
   },
   "CMBH": {
-    "name": "Mount Belcher HPT",
+    "name": "Mount Belcher (H)",
     "regions": [
       "ALL"
     ],
@@ -1238,7 +1238,7 @@
     "elev": 1000
   },
   "CMH6": {
-    "name": "Canadian Mountain Holidays HPT",
+    "name": "Canadian Mountain Holidays (H)",
     "regions": [
       "ALL"
     ],
@@ -1247,7 +1247,7 @@
     "elev": 2711
   },
   "CML2": {
-    "name": "Quamichan Lake APT",
+    "name": "Quamichan Lake (A)",
     "regions": [
       "ALL"
     ],
@@ -1265,7 +1265,7 @@
     "elev": 1769
   },
   "CNH9": {
-    "name": "Nanaimo (West Coast) HPT",
+    "name": "Nanaimo (West Coast) (H)",
     "regions": [
       "ALL"
     ],
@@ -1274,7 +1274,7 @@
     "elev": 200
   },
   "CNM6": {
-    "name": "Naramata HPT",
+    "name": "Naramata (H)",
     "regions": [
       "ALL"
     ],
@@ -1283,7 +1283,7 @@
     "elev": 1856
   },
   "CNW9": {
-    "name": "New Westminster (Royal Columbian Hospital) HPT",
+    "name": "New Westminster (Royal Columbian Hospital) (H)",
     "regions": [
       "ALL"
     ],
@@ -1292,7 +1292,7 @@
     "elev": 124
   },
   "CPW8": {
-    "name": "Powell River (Hospital) HPT",
+    "name": "Powell River (Hospital) (H)",
     "regions": [
       "ALL"
     ],
@@ -1310,7 +1310,7 @@
     "elev": null
   },
   "CRC3": {
-    "name": "Ross Creek APT",
+    "name": "Ross Creek (A)",
     "regions": [
       "ALL"
     ],
@@ -1319,7 +1319,7 @@
     "elev": 1257
   },
   "CRF2": {
-    "name": "Langley (Russell Farm) HPT",
+    "name": "Langley (Russell Farm) (H)",
     "regions": [
       "ALL"
     ],
@@ -1328,7 +1328,7 @@
     "elev": 250
   },
   "CRG2": {
-    "name": "Argus HPT",
+    "name": "Argus (H)",
     "regions": [
       "ALL"
     ],
@@ -1346,7 +1346,7 @@
     "elev": null
   },
   "CSE7": {
-    "name": "Delta (SEI) HPT",
+    "name": "Delta (SEI) (H)",
     "regions": [
       "ALL"
     ],
@@ -1355,7 +1355,7 @@
     "elev": 37
   },
   "CSM7": {
-    "name": "Abbotsford (Sumas Mountain) HPT",
+    "name": "Abbotsford (Sumas Mountain) (H)",
     "regions": [
       "ALL"
     ],
@@ -1364,7 +1364,7 @@
     "elev": 1067
   },
   "CSR6": {
-    "name": "Sonora Resort HPT",
+    "name": "Sonora Resort (H)",
     "regions": [
       "ALL"
     ],
@@ -1373,7 +1373,7 @@
     "elev": 46
   },
   "CTK8": {
-    "name": "Abbotsford (Teck) HPT",
+    "name": "Abbotsford (Teck) (H)",
     "regions": [
       "ALL"
     ],
@@ -1382,7 +1382,7 @@
     "elev": 165
   },
   "CVA3": {
-    "name": "Valhalla HPT",
+    "name": "Valhalla (H)",
     "regions": [
       "ALL"
     ],
@@ -1400,7 +1400,7 @@
     "elev": 245
   },
   "CWC2": {
-    "name": "Kelowna (Wildcat Helicopters) HPT",
+    "name": "Kelowna (Wildcat Helicopters) (H)",
     "regions": [
       "ALL"
     ],
@@ -1445,7 +1445,7 @@
     "elev": 44
   },
   "CYAL": {
-    "name": "Alert Bay APT",
+    "name": "Alert Bay (A)",
     "regions": [
       "ALL"
     ],
@@ -1454,7 +1454,7 @@
     "elev": 240
   },
   "CYAZ": {
-    "name": "Tofino / Long Beach APT",
+    "name": "Tofino / Long Beach (A)",
     "regions": [
       "ALL"
     ],
@@ -1464,7 +1464,7 @@
     "Freq": 132.9
   },
   "CYB3": {
-    "name": "Nelson/Baylock Estate HPT",
+    "name": "Nelson/Baylock Estate (H)",
     "regions": [
       "ALL"
     ],
@@ -1473,7 +1473,7 @@
     "elev": 1830
   },
   "CYBD": {
-    "name": "Bella Coola APT",
+    "name": "Bella Coola (A)",
     "regions": [
       "ALL"
     ],
@@ -1483,7 +1483,7 @@
     "Freq": 122.8
   },
   "CYBL": {
-    "name": "Campbell River APT",
+    "name": "Campbell River (A)",
     "regions": [
       "ALL"
     ],
@@ -1493,7 +1493,7 @@
     "Freq": 122.0
   },
   "CYCD": {
-    "name": "Nanaimo APT",
+    "name": "Nanaimo (A)",
     "regions": [
       "ALL"
     ],
@@ -1503,7 +1503,7 @@
     "Freq": 133.95
   },
   "CYCG": {
-    "name": "Castlegar/West Kootenay Regional APT",
+    "name": "Castlegar/West Kootenay Regional (A)",
     "regions": [
       "ALL"
     ],
@@ -1513,7 +1513,7 @@
     "Freq": 122.1
   },
   "CYCP": {
-    "name": "Blue River APT",
+    "name": "Blue River (A)",
     "regions": [
       "ALL"
     ],
@@ -1523,7 +1523,7 @@
     "Freq": 123.2
   },
   "CYCQ": {
-    "name": "Chetwynd APT",
+    "name": "Chetwynd (A)",
     "regions": [
       "ALL"
     ],
@@ -1533,7 +1533,7 @@
     "Freq": 123.2
   },
   "CYCW": {
-    "name": "Chilliwack APT",
+    "name": "Chilliwack (A)",
     "regions": [
       "ALL"
     ],
@@ -1543,7 +1543,7 @@
     "Freq": 122.7
   },
   "CYCZ": {
-    "name": "Fairmont Hot Springs APT",
+    "name": "Fairmont Hot Springs (A)",
     "regions": [
       "ALL"
     ],
@@ -1553,7 +1553,7 @@
     "Freq": 123.2
   },
   "CYDC": {
-    "name": "Princeton APT",
+    "name": "Princeton (A)",
     "regions": [
       "ALL"
     ],
@@ -1563,7 +1563,7 @@
     "Freq": 123.2
   },
   "CYDL": {
-    "name": "Dease Lake APT",
+    "name": "Dease Lake (A)",
     "regions": [
       "ALL"
     ],
@@ -1573,7 +1573,7 @@
     "Freq": 123.2
   },
   "CYDQ": {
-    "name": "Dawson Creek APT",
+    "name": "Dawson Creek (A)",
     "regions": [
       "ALL"
     ],
@@ -1583,7 +1583,7 @@
     "Freq": 122.2
   },
   "CYGB": {
-    "name": "Texada Gillies Bay APT",
+    "name": "Texada Gillies Bay (A)",
     "regions": [
       "ALL"
     ],
@@ -1593,7 +1593,7 @@
     "Freq": 122.7
   },
   "CYGE": {
-    "name": "Golden APT",
+    "name": "Golden (A)",
     "regions": [
       "ALL"
     ],
@@ -1603,7 +1603,7 @@
     "Freq": 122.8
   },
   "CYHE": {
-    "name": "Hope APT / FVRD Regional Airpark",
+    "name": "Hope (A) / FVRD Regional Airpark",
     "regions": [
       "ALL"
     ],
@@ -1613,7 +1613,7 @@
     "Freq": 123.3
   },
   "CYJM": {
-    "name": "Fort St James APT",
+    "name": "Fort St James (A)",
     "regions": [
       "ALL"
     ],
@@ -1623,7 +1623,7 @@
     "Freq": 123.2
   },
   "CYJQ": {
-    "name": "Denny Island APT",
+    "name": "Denny Island (A)",
     "regions": [
       "ALL"
     ],
@@ -1632,7 +1632,7 @@
     "elev": 162
   },
   "CYKA": {
-    "name": "Kamloops John Moose Fulton Field Regional APT",
+    "name": "Kamloops John Moose Fulton Field Regional (A)",
     "regions": [
       "ALL"
     ],
@@ -1651,7 +1651,7 @@
     "elev": null
   },
   "CYLI": {
-    "name": "Lillooet APT",
+    "name": "Lillooet (A)",
     "regions": [
       "ALL"
     ],
@@ -1661,7 +1661,7 @@
     "Freq": 123.2
   },
   "CYLW": {
-    "name": "Kelowna INT APT",
+    "name": "Kelowna INT (A)",
     "regions": [
       "ALL"
     ],
@@ -1671,7 +1671,7 @@
     "Freq": 119.6
   },
   "CYNH": {
-    "name": "Hudson's Hope APT",
+    "name": "Hudson's Hope (A)",
     "regions": [
       "ALL"
     ],
@@ -1681,7 +1681,7 @@
     "Freq": 123.2
   },
   "CYNJ": {
-    "name": "Langley APT",
+    "name": "Langley (A)",
     "regions": [
       "ALL"
     ],
@@ -1691,7 +1691,7 @@
     "Freq": 119.0
   },
   "CYPK": {
-    "name": "Pitt Meadows APT",
+    "name": "Pitt Meadows (A)",
     "regions": [
       "ALL"
     ],
@@ -1701,7 +1701,7 @@
     "Freq": 126.3
   },
   "CYPR": {
-    "name": "Prince Rupert APT",
+    "name": "Prince Rupert (A)",
     "regions": [
       "ALL"
     ],
@@ -1711,7 +1711,7 @@
     "Freq": 122.5
   },
   "CYPS": {
-    "name": "Pemberton Regional APT",
+    "name": "Pemberton Regional (A)",
     "regions": [
       "ALL"
     ],
@@ -1721,7 +1721,7 @@
     "Freq": 123.2
   },
   "CYPU": {
-    "name": "Puntzi Mountain APT",
+    "name": "Puntzi Mountain (A)",
     "regions": [
       "ALL"
     ],
@@ -1731,7 +1731,7 @@
     "Freq": 126.7
   },
   "CYPW": {
-    "name": "Powell River APT",
+    "name": "Powell River (A)",
     "regions": [
       "ALL"
     ],
@@ -1741,7 +1741,7 @@
     "Freq": 123.0
   },
   "CYPZ": {
-    "name": "Burns Lake APT",
+    "name": "Burns Lake (A)",
     "regions": [
       "ALL"
     ],
@@ -1751,7 +1751,7 @@
     "Freq": 122.7
   },
   "CYQQ": {
-    "name": "Comox Valley APT / CFB Comox",
+    "name": "Comox Valley (A) / CFB Comox",
     "regions": [
       "ALL"
     ],
@@ -1761,7 +1761,7 @@
     "Freq": 126.2
   },
   "CYQZ": {
-    "name": "Quesnel APT",
+    "name": "Quesnel (A)",
     "regions": [
       "ALL"
     ],
@@ -1771,7 +1771,7 @@
     "Freq": 122.2
   },
   "CYRV": {
-    "name": "Revelstoke APT",
+    "name": "Revelstoke (A)",
     "regions": [
       "ALL"
     ],
@@ -1781,7 +1781,7 @@
     "Freq": 122.8
   },
   "CYSE": {
-    "name": "Squamish APT",
+    "name": "Squamish (A)",
     "regions": [
       "ALL"
     ],
@@ -1791,7 +1791,7 @@
     "Freq": 122.8
   },
   "CYSQ": {
-    "name": "Atlin APT",
+    "name": "Atlin (A)",
     "regions": [
       "ALL"
     ],
@@ -1800,7 +1800,7 @@
     "elev": 2348
   },
   "CYSW": {
-    "name": "Sparwood Elk Valley APT",
+    "name": "Sparwood Elk Valley (A)",
     "regions": [
       "ALL"
     ],
@@ -1810,7 +1810,7 @@
     "Freq": 123.2
   },
   "CYVK": {
-    "name": "Vernon Regional APT",
+    "name": "Vernon Regional (A)",
     "regions": [
       "ALL"
     ],
@@ -1820,7 +1820,7 @@
     "Freq": 122.8
   },
   "CYVR": {
-    "name": "Vancouver INT APT",
+    "name": "Vancouver INT (A)",
     "regions": [
       "ALL"
     ],
@@ -1830,7 +1830,7 @@
     "Freq": 118.7
   },
   "CYWL": {
-    "name": "Williams Lake APT",
+    "name": "Williams Lake (A)",
     "regions": [
       "ALL"
     ],
@@ -1840,7 +1840,7 @@
     "Freq": 122.3
   },
   "CYXC": {
-    "name": "Cranbrook/Canadian Rockies INT APT",
+    "name": "Cranbrook/Canadian Rockies INT (A)",
     "regions": [
       "ALL"
     ],
@@ -1850,7 +1850,7 @@
     "Freq": 122.3
   },
   "CYXJ": {
-    "name": "Fort St John / North Peace Regional APT",
+    "name": "Fort St John / North Peace Regional (A)",
     "regions": [
       "ALL"
     ],
@@ -1860,7 +1860,7 @@
     "Freq": 118.5
   },
   "CYXS": {
-    "name": "Prince George APT",
+    "name": "Prince George (A)",
     "regions": [
       "ALL"
     ],
@@ -1870,7 +1870,7 @@
     "Freq": 118.3
   },
   "CYXT": {
-    "name": "Northwest Regional APT Terrace-Kitimat",
+    "name": "Northwest Regional (A) Terrace-Kitimat",
     "regions": [
       "ALL"
     ],
@@ -1880,7 +1880,7 @@
     "Freq": 122.0
   },
   "CYXX": {
-    "name": "Abbotsford INT APT",
+    "name": "Abbotsford INT (A)",
     "regions": [
       "ALL"
     ],
@@ -1890,7 +1890,7 @@
     "Freq": 119.4
   },
   "CYYD": {
-    "name": "Smithers APT",
+    "name": "Smithers (A)",
     "regions": [
       "ALL"
     ],
@@ -1900,7 +1900,7 @@
     "Freq": 122.3
   },
   "CYYE": {
-    "name": "Fort Nelson APT",
+    "name": "Fort Nelson (A)",
     "regions": [
       "ALL"
     ],
@@ -1910,7 +1910,7 @@
     "Freq": 125.65
   },
   "CYYF": {
-    "name": "Penticton APT",
+    "name": "Penticton (A)",
     "regions": [
       "ALL"
     ],
@@ -1920,7 +1920,7 @@
     "Freq": 118.5
   },
   "CYYJ": {
-    "name": "Victoria INT APT",
+    "name": "Victoria INT (A)",
     "regions": [
       "ALL"
     ],
@@ -1930,7 +1930,7 @@
     "Freq": 119.1
   },
   "CYZP": {
-    "name": "Sandspit APT",
+    "name": "Sandspit (A)",
     "regions": [
       "ALL"
     ],
@@ -1940,7 +1940,7 @@
     "Freq": 122.3
   },
   "CYZT": {
-    "name": "Port Hardy APT",
+    "name": "Port Hardy (A)",
     "regions": [
       "ALL"
     ],
@@ -1950,7 +1950,7 @@
     "Freq": 122.2
   },
   "CYZY": {
-    "name": "Mackenzie APT",
+    "name": "Mackenzie (A)",
     "regions": [
       "ALL"
     ],
@@ -1960,7 +1960,7 @@
     "Freq": 126.7
   },
   "CZAM": {
-    "name": "Shuswap Regional APT",
+    "name": "Shuswap Regional (A)",
     "regions": [
       "ALL"
     ],
@@ -1970,7 +1970,7 @@
     "Freq": 122.9
   },
   "CZBB": {
-    "name": "Boundary Bay APT",
+    "name": "Boundary Bay (A)",
     "regions": [
       "ALL"
     ],
@@ -1980,7 +1980,7 @@
     "Freq": 118.1
   },
   "CZGF": {
-    "name": "Grand Forks APT",
+    "name": "Grand Forks (A)",
     "regions": [
       "ALL"
     ],
@@ -1990,7 +1990,7 @@
     "Freq": 123.2
   },
   "CZML": {
-    "name": "South Cariboo Region / 108 Mile APT",
+    "name": "South Cariboo Region / 108 Mile (A)",
     "regions": [
       "ALL"
     ],
@@ -2000,7 +2000,7 @@
     "Freq": 134.0
   },
   "CZMT": {
-    "name": "Masset APT",
+    "name": "Masset (A)",
     "regions": [
       "ALL"
     ],
@@ -2010,7 +2010,7 @@
     "Freq": 122.7
   },
   "CZNL": {
-    "name": "Nelson APT",
+    "name": "Nelson (A)",
     "regions": [
       "ALL"
     ],
@@ -2020,7 +2020,7 @@
     "Freq": 123.2
   },
   "CZST": {
-    "name": "Stewart APT",
+    "name": "Stewart (A)",
     "regions": [
       "ALL"
     ],
@@ -2039,7 +2039,7 @@
     "elev": null
   },
   "YRD": {
-    "name": "Dean River APT",
+    "name": "Dean River (A)",
     "regions": [
       "ALL"
     ],
