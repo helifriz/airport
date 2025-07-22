@@ -2047,4 +2047,49 @@
     "lon": -126.9650,
     "elev": 62
   }
+  },
+  "PILOTS": [
+    {
+      "name": "Alice Smith",
+      "weight": 78
+    },
+    {
+      "name": "Bob Jones",
+      "weight": 90
+    },
+    {
+      "name": "Charlie Lee",
+      "weight": 83
+    },
+    {
+      "name": "Dana White",
+      "weight": 74
+    }
+  ],
+  "MEDICS": [
+    {
+      "name": "Std Female",
+      "weight": 80
+    },
+    {
+      "name": "Std Male",
+      "weight": 96
+    },
+    {
+      "name": "Alice Rose",
+      "weight": 78
+    },
+    {
+      "name": "Bob Lee",
+      "weight": 90
+    },
+    {
+      "name": "Charlie Pain",
+      "weight": 83
+    },
+    {
+      "name": "Dana Black",
+      "weight": 74
+    }
+  ]
 }
