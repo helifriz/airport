@@ -156,7 +156,7 @@
     "elev": 2450
   },
   "CAK3": {
-    "name": "Delta Heritage Air Park",
+    "name": "Delta Heritage (A)",
     "regions": [
       "ALL"
     ],
@@ -426,7 +426,7 @@
     "elev": 50
   },
   "CBB6": {
-    "name": "Bowser Aerodrome",
+    "name": "Bowser (A)",
     "regions": [
       "ALL"
     ],
@@ -801,7 +801,7 @@
     "Freq": 123.2
   },
   "CBR4": {
-    "name": "Clinton/Bleibler Ranch Aerodrome",
+    "name": "Clinton/Bleibler Ranch (A)",
     "regions": [
       "ALL"
     ],
