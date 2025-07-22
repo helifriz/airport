@@ -35,7 +35,8 @@
     "CAA8": {
       "name": "Invermere (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 50.5215,
       "lon": -116.0058,
@@ -46,7 +47,8 @@
       "name": "Abbotsford hosp",
       "regions": [
         "Vancouver",
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.0362,
       "lon": -122.314,
@@ -55,7 +57,8 @@
     "CAB7": {
       "name": "Kelowna (Alpine) (H)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.8639,
       "lon": -119.5685,
@@ -64,7 +67,8 @@
     "CAD4": {
       "name": "Trail Regional (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.0556,
       "lon": -117.609,
@@ -75,7 +79,8 @@
       "name": "Merritt (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 50.1225,
       "lon": -120.7454,
@@ -85,7 +90,8 @@
     "CAE2": {
       "name": "Cranbrook hosp",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.5125,
       "lon": -115.75,
@@ -95,7 +101,8 @@
       "name": "Tsuniah Lake Lodge (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 51.5264,
       "lon": -124.164,
@@ -105,7 +112,8 @@
       "name": "Chilko Lake (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 51.6258,
       "lon": -124.1445,
@@ -114,7 +122,8 @@
     "CAH3": {
       "name": "Courtenay (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.6792,
       "lon": -124.9806,
@@ -125,7 +134,8 @@
       "name": "Valemount (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 52.8527,
       "lon": -119.3363,
@@ -135,7 +145,8 @@
     "CAJ3": {
       "name": "Creston Valley Regional (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.0369,
       "lon": -116.498,
@@ -166,7 +177,8 @@
     "CAK3": {
       "name": "Delta Heritage (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.0774,
       "lon": -122.941,
@@ -176,7 +188,8 @@
     "CAK7": {
       "name": "Vancouver Children & Women's",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.2438,
       "lon": -123.1271,
@@ -185,7 +198,8 @@
     "CAL2": {
       "name": "Arrow Lakes hosp",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 50.2384,
       "lon": -117.795,
@@ -195,7 +209,8 @@
       "name": "Douglas Lake (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 50.1655,
       "lon": -120.1713,
@@ -205,7 +220,8 @@
     "CAL7": {
       "name": "Ganges (Lady Minto hosp)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 48.8625,
       "lon": -123.5087,
@@ -214,7 +230,8 @@
     "CAM3": {
       "name": "Duncan (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 48.7545,
       "lon": -123.7097,
@@ -236,7 +253,8 @@
     "CAP3": {
       "name": "Sechelt-Gibsons (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.4606,
       "lon": -123.719,
@@ -256,7 +274,8 @@
       "name": "Springhouse (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 51.9549,
       "lon": -122.14,
@@ -265,7 +284,8 @@
     "CAQ5": {
       "name": "Nakusp (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 50.2664,
       "lon": -117.813,
@@ -286,7 +306,8 @@
     "CAS5": {
       "name": "Aerosmith Heli Service (H)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.3074,
       "lon": -124.4133,
@@ -295,7 +316,8 @@
     "CAT4": {
       "name": "Qualicum Beach (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.3375,
       "lon": -124.3931,
@@ -314,7 +336,8 @@
     "CAT6": {
       "name": "Campbell River hosp",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 50.0086,
       "lon": -125.2428,
@@ -323,7 +346,8 @@
     "CAU3": {
       "name": "Oliver (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.1733,
       "lon": -119.551,
@@ -345,7 +369,8 @@
       "name": "One Hundred Mile House (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 51.6425,
       "lon": -121.307,
@@ -355,7 +380,8 @@
       "name": "McBride (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 53.315,
       "lon": -120.171,
@@ -365,7 +391,8 @@
       "name": "Scum Lake (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 51.7954,
       "lon": -123.5816,
@@ -375,7 +402,8 @@
       "name": "Whistler (hosp)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 50.1203,
       "lon": -122.9547,
@@ -385,7 +413,8 @@
       "name": "Likely (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 52.6167,
       "lon": -121.5,
@@ -395,7 +424,8 @@
       "name": "Quesnel hosp",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 52.9827,
       "lon": -122.5008,
@@ -405,7 +435,8 @@
       "name": "Cache Creek-Ashcroft Regional (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 50.7753,
       "lon": -121.3213,
@@ -435,7 +466,8 @@
     "CBB4": {
       "name": "Beddis Beach Helipad",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 48.8,
       "lon": -123.4236,
@@ -463,7 +495,8 @@
     "CBB9": {
       "name": "Osoyoos (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.0372,
       "lon": -119.489,
@@ -486,7 +519,8 @@
       "name": "Kamloops (Royal Inland hosp)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 50.669,
       "lon": -120.333,
@@ -495,7 +529,8 @@
     "CBC7": {
       "name": "Harbour (H)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.2869,
       "lon": -123.1061,
@@ -513,7 +548,8 @@
     "CBD2": {
       "name": "Delta (North) (H)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.12,
       "lon": -123.0473,
@@ -523,7 +559,8 @@
       "name": "White Saddle Ranch (H)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 51.7419,
       "lon": -124.7389,
@@ -542,7 +579,8 @@
       "name": "Whistler (Municipal) (H)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 50.1684,
       "lon": -122.9048,
@@ -551,7 +589,8 @@
     "CBF4": {
       "name": "Mission (Public Safety) (H)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.1328,
       "lon": -122.3436,
@@ -560,7 +599,8 @@
     "CBF5": {
       "name": "Mayne Island (Medical Emergency) (H)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 48.8467,
       "lon": -123.2842,
@@ -579,7 +619,8 @@
     "CBF7": {
       "name": "Victoria Harbour (Camel Point) (H)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 48.4181,
       "lon": -123.388,
@@ -589,7 +630,8 @@
       "name": "Mabel Lake (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 50.6089,
       "lon": -118.731,
@@ -599,7 +641,8 @@
       "name": "Green Lake (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 51.4294,
       "lon": -121.21,
@@ -608,7 +651,8 @@
     "CBG5": {
       "name": "Nanaimo hosp",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.1857,
       "lon": -123.9718,
@@ -627,7 +671,8 @@
       "name": "Echo Valley (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 51.2417,
       "lon": -121.9898,
@@ -646,7 +691,8 @@
     "CBK4": {
       "name": "Vancouver General hosp",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.2619,
       "lon": -123.1244,
@@ -655,7 +701,8 @@
     "CBK5": {
       "name": "Port Alberni hosp",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.2488,
       "lon": -124.783,
@@ -665,7 +712,8 @@
       "name": "Quesnel Lake (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 52.514,
       "lon": -121.0459,
@@ -683,7 +731,8 @@
     "CBK8": {
       "name": "Victoria (Royal Jubilee hosp)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 48.4343,
       "lon": -123.3252,
@@ -692,7 +741,8 @@
     "CBK9": {
       "name": "Little Parker Island (H)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 48.8964,
       "lon": -123.418,
@@ -710,7 +760,8 @@
     "CBL6": {
       "name": "Radium Hot Springs (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 50.6272,
       "lon": -116.095,
@@ -720,7 +771,8 @@
       "name": "Cortes Island (H)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 50.0586,
       "lon": -124.982,
@@ -730,7 +782,8 @@
       "name": "Elkin Creek Guest Ranch (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 51.5105,
       "lon": -123.8062,
@@ -739,7 +792,8 @@
     "CBM6": {
       "name": "Midway (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.01,
       "lon": -118.79,
@@ -776,7 +830,8 @@
     "CBP4": {
       "name": "Sechelt hosp",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.4762,
       "lon": -123.7486,
@@ -786,7 +841,8 @@
       "name": "Blackcomb Helicopters (H)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 50.6851,
       "lon": -121.9272,
@@ -795,7 +851,8 @@
     "CBQ2": {
       "name": "Fort Langley (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.1675,
       "lon": -122.555,
@@ -826,7 +883,8 @@
     "CBR2": {
       "name": "Kaslo (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.9036,
       "lon": -116.935,
@@ -837,7 +895,8 @@
       "name": "Clinton/Bleibler Ranch (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 51.2668,
       "lon": -121.6858,
@@ -883,7 +942,8 @@
     "CBS8": {
       "name": "Alberni Valley Regional (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.3219,
       "lon": -124.931,
@@ -903,7 +963,8 @@
     "CBT5": {
       "name": "Golden hosp",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 51.297,
       "lon": -116.967,
@@ -912,7 +973,8 @@
     "CBT9": {
       "name": "Sproat Lake Tanker Base (H)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.2898,
       "lon": -124.9391,
@@ -953,7 +1015,8 @@
       "name": "Valemount (Yellowhead Helicopters) (H)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 52.8662,
       "lon": -119.2976,
@@ -962,7 +1025,8 @@
     "CBV8": {
       "name": "Comox hosp",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.6751,
       "lon": -124.9412,
@@ -1002,7 +1066,8 @@
     "CBW7": {
       "name": "Victoria hosp",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 48.468,
       "lon": -123.4324,
@@ -1011,7 +1076,8 @@
     "CBW9": {
       "name": "Madrona Bay (H)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 48.8558,
       "lon": -123.486,
@@ -1052,7 +1118,8 @@
     "CBZ7": {
       "name": "Victoria Harbour (Shoal Point) (H)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 48.4232,
       "lon": -123.3875,
@@ -1073,7 +1140,8 @@
       "name": "Cortes Island (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 50.0203,
       "lon": -124.984,
@@ -1083,7 +1151,8 @@
       "name": "Campbell River (E & B Heli) (H)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 50.0413,
       "lon": -125.2686,
@@ -1092,7 +1161,8 @@
     "CCS6": {
       "name": "Smit Field",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.6669,
       "lon": -125.0977,
@@ -1101,7 +1171,8 @@
     "CCT3": {
       "name": "Castlegar (Tarrys Convention Centre) (H)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.3861,
       "lon": -117.552,
@@ -1121,7 +1192,8 @@
       "name": "Dougall Campbell Field",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 52.0108,
       "lon": -121.2107,
@@ -1130,7 +1202,8 @@
     "CDH4": {
       "name": "Cowichan District hosp",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 48.7862,
       "lon": -123.7214,
@@ -1139,7 +1212,8 @@
     "CDH5": {
       "name": "Nanaimo Harbour (H)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.1608,
       "lon": -123.9232,
@@ -1149,7 +1223,8 @@
       "name": "Frontline Helicopters (H)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 51.9646,
       "lon": -121.8122,
@@ -1177,7 +1252,8 @@
     "CFR6": {
       "name": "Vancouver / Coquitlam Fire and Rescue (H)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.2916,
       "lon": -122.7921,
@@ -1186,7 +1262,8 @@
     "CGB4": {
       "name": "Nanaimo/Gabriola Island (Health Clinic)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.1783,
       "lon": -123.8353,
@@ -1195,7 +1272,8 @@
     "CGF4": {
       "name": "Boundary hosp (H)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.0306,
       "lon": -118.4699,
@@ -1205,7 +1283,8 @@
       "name": "Gun Lake (H)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 50.8897,
       "lon": -122.847,
@@ -1214,7 +1293,8 @@
     "CGL6": {
       "name": "Vancouver / Burnaby (Global BC) (H)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.2546,
       "lon": -122.9352,
@@ -1242,7 +1322,8 @@
     "CHT4": {
       "name": "Nelson (High Terrain Helicopters) (H)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.4867,
       "lon": -117.3272,
@@ -1251,7 +1332,8 @@
     "CIV2": {
       "name": "Invermere (hosp) (H)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 50.5072,
       "lon": -116.0328,
@@ -1261,7 +1343,8 @@
       "name": "Heffley Creek Airstrip",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 50.869,
       "lon": -120.2741,
@@ -1270,7 +1353,8 @@
     "CKB3": {
       "name": "Kootenay hosp",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.1036,
       "lon": -117.7003,
@@ -1279,7 +1363,8 @@
     "CKH9": {
       "name": "Kelowna General hosp",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.8743,
       "lon": -119.4924,
@@ -1288,7 +1373,8 @@
     "CMBH": {
       "name": "Mount Belcher (H)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 48.8328,
       "lon": -123.505,
@@ -1298,7 +1384,8 @@
       "name": "Canadian Mountain Holidays (H)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 52.7884,
       "lon": -119.2562,
@@ -1307,7 +1394,8 @@
     "CML2": {
       "name": "Quamichan Lake (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 48.8119,
       "lon": -123.651,
@@ -1316,7 +1404,8 @@
     "CND7": {
       "name": "Slocan hosp (H)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.9841,
       "lon": -117.3744,
@@ -1325,7 +1414,8 @@
     "CNH9": {
       "name": "Nanaimo (West Coast) (H)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.1848,
       "lon": -123.9892,
@@ -1334,7 +1424,8 @@
     "CNM6": {
       "name": "Naramata (H)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.6029,
       "lon": -119.5785,
@@ -1343,7 +1434,8 @@
     "CNW9": {
       "name": "New Westminster hosp (H)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.2267,
       "lon": -122.8923,
@@ -1352,7 +1444,8 @@
     "CPW8": {
       "name": "Powell River hosp (H)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.8514,
       "lon": -124.5175,
@@ -1373,7 +1466,8 @@
       "name": "Ross Creek (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 50.9655,
       "lon": -119.2254,
@@ -1382,7 +1476,8 @@
     "CRF2": {
       "name": "Langley (Russell Farm) (H)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.011,
       "lon": -122.6722,
@@ -1391,7 +1486,8 @@
     "CRG2": {
       "name": "Argus (H)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.9616,
       "lon": -119.4458,
@@ -1411,7 +1507,8 @@
     "CSE7": {
       "name": "Delta (SEI) (H)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.1291,
       "lon": -123.0184,
@@ -1421,7 +1518,8 @@
       "name": "Sonora Resort (H)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 50.3817,
       "lon": -125.1576,
@@ -1430,7 +1528,8 @@
     "CTK8": {
       "name": "Abbotsford (Teck) (H)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.1269,
       "lon": -122.395,
@@ -1439,7 +1538,8 @@
     "CVA3": {
       "name": "Valhalla (H)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.8677,
       "lon": -119.5607,
@@ -1448,7 +1548,8 @@
     "CVS3": {
       "name": "Surrey Memorial hosp (H)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.176,
       "lon": -122.8437,
@@ -1457,7 +1558,8 @@
     "CWC2": {
       "name": "Kelowna (Wildcat Helicopters) (H)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.8674,
       "lon": -119.5792,
@@ -1476,7 +1578,8 @@
       "name": "Chatham Point Light Station (H)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 50.3331,
       "lon": -125.4453,
@@ -1524,7 +1627,8 @@
     "CYB3": {
       "name": "Nelson/Baylock Estate (H)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.5447,
       "lon": -117.2606,
@@ -1545,7 +1649,8 @@
     "CYBL": {
       "name": "Campbell River (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.9508,
       "lon": -125.271,
@@ -1555,7 +1660,8 @@
     "CYCD": {
       "name": "Nanaimo (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.055,
       "lon": -123.8699,
@@ -1565,7 +1671,8 @@
     "CYCG": {
       "name": "Castlegar/West Kootenay (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.2964,
       "lon": -117.632,
@@ -1576,7 +1683,8 @@
       "name": "Blue River (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 52.1167,
       "lon": -119.283,
@@ -1597,7 +1705,8 @@
     "CYCW": {
       "name": "Chilliwack (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.1532,
       "lon": -121.9393,
@@ -1607,7 +1716,8 @@
     "CYCZ": {
       "name": "Fairmont Hot Springs (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 50.3311,
       "lon": -115.8737,
@@ -1617,7 +1727,8 @@
     "CYDC": {
       "name": "Princeton (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.4681,
       "lon": -120.511,
@@ -1648,7 +1759,8 @@
     "CYGB": {
       "name": "Texada Gillies Bay (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.6943,
       "lon": -124.5181,
@@ -1658,7 +1770,8 @@
     "CYGE": {
       "name": "Golden (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 51.2992,
       "lon": -116.982,
@@ -1668,7 +1781,8 @@
     "CYHE": {
       "name": "Hope (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.3689,
       "lon": -121.495,
@@ -1701,7 +1815,8 @@
       "name": "Kamloops (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 50.703,
       "lon": -120.4486,
@@ -1712,7 +1827,8 @@
       "name": "Tranquille Valley (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 50.8595,
       "lon": -120.6711,
@@ -1722,7 +1838,8 @@
       "name": "Lillooet (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 50.6747,
       "lon": -121.894,
@@ -1732,7 +1849,8 @@
     "CYLW": {
       "name": "Kelowna INT (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.9561,
       "lon": -119.378,
@@ -1753,7 +1871,8 @@
     "CYNJ": {
       "name": "Langley (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.1008,
       "lon": -122.631,
@@ -1763,7 +1882,8 @@
     "CYPK": {
       "name": "Pitt Meadows (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.2161,
       "lon": -122.71,
@@ -1785,7 +1905,8 @@
       "name": "Pemberton Regional (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 50.3025,
       "lon": -122.738,
@@ -1796,7 +1917,8 @@
       "name": "Puntzi Mountain (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 52.1128,
       "lon": -124.145,
@@ -1806,7 +1928,8 @@
     "CYPW": {
       "name": "Powell River (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.8342,
       "lon": -124.5,
@@ -1828,7 +1951,8 @@
     "CYQQ": {
       "name": "Comox Valley (A) / CFB Comox",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.7108,
       "lon": -124.887,
@@ -1839,7 +1963,8 @@
       "name": "Quesnel (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 53.0261,
       "lon": -122.51,
@@ -1850,7 +1975,8 @@
       "name": "Revelstoke (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 50.9622,
       "lon": -118.1843,
@@ -1861,7 +1987,8 @@
       "name": "Squamish (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 49.7817,
       "lon": -123.162,
@@ -1890,7 +2017,8 @@
     "CYVK": {
       "name": "Vernon Regional (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 50.2462,
       "lon": -119.331,
@@ -1900,7 +2028,8 @@
     "CYVR": {
       "name": "Vancouver INT (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.1939,
       "lon": -123.184,
@@ -1911,7 +2040,8 @@
       "name": "Williams Lake (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 52.1831,
       "lon": -122.054,
@@ -1921,7 +2051,8 @@
     "CYXC": {
       "name": "Cranbrook INT (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.6108,
       "lon": -115.782,
@@ -1964,7 +2095,8 @@
     "CYXX": {
       "name": "Abbotsford INT (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.0253,
       "lon": -122.361,
@@ -1996,7 +2128,8 @@
     "CYYF": {
       "name": "Penticton (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.4631,
       "lon": -119.602,
@@ -2006,7 +2139,8 @@
     "CYYJ": {
       "name": "Victoria INT (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 48.6472,
       "lon": -123.4278,
@@ -2049,7 +2183,8 @@
       "name": "Shuswap Regional (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 50.6828,
       "lon": -119.229,
@@ -2059,7 +2194,8 @@
     "CZBB": {
       "name": "Boundary Bay (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.0742,
       "lon": -123.012,
@@ -2069,7 +2205,8 @@
     "CZGF": {
       "name": "Grand Forks (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.0156,
       "lon": -118.431,
@@ -2080,7 +2217,8 @@
       "name": "South Cariboo (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 51.7361,
       "lon": -121.333,
@@ -2101,7 +2239,8 @@
     "CZNL": {
       "name": "Nelson (A)",
       "regions": [
-        "ALL"
+        "ALL",
+        "kamloops"
       ],
       "lat": 49.4942,
       "lon": -117.301,
@@ -2123,7 +2262,8 @@
       "name": "The Hill Airstrip",
       "regions": [
         "ALL",
-        "prince george"
+        "prince george",
+        "kamloops"
       ],
       "lat": 52.2188,
       "lon": -123.4495,
