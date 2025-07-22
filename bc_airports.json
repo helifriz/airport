@@ -1,4 +1,26 @@
-
+{
+  "HELICOPTERS": [
+    {
+      "reg": "C-GHIV",
+      "weight": 3692
+    },
+    {
+      "reg": "C-GHBB",
+      "weight": 3821
+    },
+    {
+      "reg": "C-GHCC",
+      "weight": 3700
+    },
+    {
+      "reg": "C-GHDD",
+      "weight": 3845
+    }
+  ],
+  "MAX_FUEL": 904,
+  "MIN_FUEL": 100,
+  "MAX_TAKEOFF_WEIGHT": 4800,
+  "waypoints": {
   "CAB5": {
     "name": "Abbotsford (Regional Hospital)",
     "regions": [
