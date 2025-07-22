@@ -25,8 +25,8 @@
       "name": "Smithers (Canadian) (H)",
       "regions": [
         "ALL",
-        "prince george",
-        "prince rupert"
+        "Prince George",
+        "Prince Rupert"
       ],
       "lat": 54.7723,
       "lon": -127.1416,
@@ -36,7 +36,7 @@
       "name": "Invermere (A)",
       "regions": [
         "ALL",
-        "kamloops"
+        "Kamloops"
       ],
       "lat": 50.5215,
       "lon": -116.0058,
@@ -47,9 +47,9 @@
       "name": "Abbotsford hosp",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.0362,
       "lon": -122.314,
@@ -59,8 +59,8 @@
       "name": "Kelowna (Alpine) (H)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver"
+        "Kamloops",
+        "Vancouver"
       ],
       "lat": 49.8639,
       "lon": -119.5685,
@@ -70,7 +70,7 @@
       "name": "Trail Regional (A)",
       "regions": [
         "ALL",
-        "kamloops"
+        "Kamloops"
       ],
       "lat": 49.0556,
       "lon": -117.609,
@@ -81,10 +81,10 @@
       "name": "Merritt (A)",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Prince George",
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 50.1225,
       "lon": -120.7454,
@@ -95,7 +95,7 @@
       "name": "Cranbrook hosp",
       "regions": [
         "ALL",
-        "kamloops"
+        "Kamloops"
       ],
       "lat": 49.5125,
       "lon": -115.75,
@@ -105,10 +105,10 @@
       "name": "Tsuniah Lake Lodge (A)",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Prince George",
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 51.5264,
       "lon": -124.164,
@@ -118,10 +118,10 @@
       "name": "Chilko Lake (A)",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Prince George",
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 51.6258,
       "lon": -124.1445,
@@ -131,9 +131,9 @@
       "name": "Courtenay (A)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.6792,
       "lon": -124.9806,
@@ -144,8 +144,8 @@
       "name": "Valemount (A)",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops"
+        "Prince George",
+        "Kamloops"
       ],
       "lat": 52.8527,
       "lon": -119.3363,
@@ -156,7 +156,7 @@
       "name": "Creston Valley Regional (A)",
       "regions": [
         "ALL",
-        "kamloops"
+        "Kamloops"
       ],
       "lat": 49.0369,
       "lon": -116.498,
@@ -167,7 +167,7 @@
       "name": "Anahim Lake (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "Prince George"
       ],
       "lat": 52.4515,
       "lon": -125.3038,
@@ -178,7 +178,7 @@
       "name": "Fort Ware (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "Prince George"
       ],
       "lat": 57.4279,
       "lon": -125.6482,
@@ -188,9 +188,9 @@
       "name": "Delta Heritage (A)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.0774,
       "lon": -122.941,
@@ -201,9 +201,9 @@
       "name": "Vancouver Children & Women's",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.2438,
       "lon": -123.1271,
@@ -213,7 +213,7 @@
       "name": "Arrow Lakes hosp",
       "regions": [
         "ALL",
-        "kamloops"
+        "Kamloops"
       ],
       "lat": 50.2384,
       "lon": -117.795,
@@ -223,10 +223,10 @@
       "name": "Douglas Lake (A)",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Prince George",
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 50.1655,
       "lon": -120.1713,
@@ -237,9 +237,9 @@
       "name": "Ganges (Lady Minto hosp)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 48.8625,
       "lon": -123.5087,
@@ -249,9 +249,9 @@
       "name": "Duncan (A)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 48.7545,
       "lon": -123.7097,
@@ -262,8 +262,8 @@
       "name": "Houston (A)",
       "regions": [
         "ALL",
-        "prince george",
-        "prince rupert"
+        "Prince George",
+        "Prince Rupert"
       ],
       "lat": 54.4403,
       "lon": -126.78,
@@ -274,9 +274,9 @@
       "name": "Sechelt-Gibsons (A)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.4606,
       "lon": -123.719,
@@ -286,7 +286,7 @@
       "name": "Ingenika (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "Prince George"
       ],
       "lat": 56.7906,
       "lon": -124.897,
@@ -296,10 +296,10 @@
       "name": "Springhouse (A)",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Prince George",
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 51.9549,
       "lon": -122.14,
@@ -309,7 +309,7 @@
       "name": "Nakusp (A)",
       "regions": [
         "ALL",
-        "kamloops"
+        "Kamloops"
       ],
       "lat": 50.2664,
       "lon": -117.813,
@@ -320,8 +320,8 @@
       "name": "Moose Lake Lodge (A)",
       "regions": [
         "ALL",
-        "prince george",
-        "prince rupert"
+        "Prince George",
+        "Prince Rupert"
       ],
       "lat": 53.0738,
       "lon": -125.4084,
@@ -331,9 +331,9 @@
       "name": "Aerosmith Heli Service (H)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.3074,
       "lon": -124.4133,
@@ -343,9 +343,9 @@
       "name": "Qualicum Beach (A)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.3375,
       "lon": -124.3931,
@@ -356,8 +356,8 @@
       "name": "Port McNeill (A)",
       "regions": [
         "ALL",
-        "vancouver",
-        "parksville"
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 50.5735,
       "lon": -127.0277,
@@ -367,9 +367,9 @@
       "name": "Campbell River hosp",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 50.0086,
       "lon": -125.2428,
@@ -379,8 +379,8 @@
       "name": "Oliver (A)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver"
+        "Kamloops",
+        "Vancouver"
       ],
       "lat": 49.1733,
       "lon": -119.551,
@@ -391,7 +391,7 @@
       "name": "Vanderhoof (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "Prince George"
       ],
       "lat": 54.0516,
       "lon": -124.0108,
@@ -402,9 +402,9 @@
       "name": "One Hundred Mile House (A)",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops",
-        "vancouver"
+        "Prince George",
+        "Kamloops",
+        "Vancouver"
       ],
       "lat": 51.6425,
       "lon": -121.307,
@@ -414,8 +414,8 @@
       "name": "McBride (A)",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops"
+        "Prince George",
+        "Kamloops"
       ],
       "lat": 53.315,
       "lon": -120.171,
@@ -425,10 +425,10 @@
       "name": "Scum Lake (A)",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Prince George",
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 51.7954,
       "lon": -123.5816,
@@ -438,10 +438,10 @@
       "name": "Whistler (hosp)",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Prince George",
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 50.1203,
       "lon": -122.9547,
@@ -451,8 +451,8 @@
       "name": "Likely (A)",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops"
+        "Prince George",
+        "Kamloops"
       ],
       "lat": 52.6167,
       "lon": -121.5,
@@ -462,8 +462,8 @@
       "name": "Quesnel hosp",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops"
+        "Prince George",
+        "Kamloops"
       ],
       "lat": 52.9827,
       "lon": -122.5008,
@@ -473,10 +473,10 @@
       "name": "Cache Creek-Ashcroft Regional (A)",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Prince George",
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 50.7753,
       "lon": -121.3213,
@@ -487,7 +487,7 @@
       "name": "Beaverley (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "Prince George"
       ],
       "lat": 53.8556,
       "lon": -122.908,
@@ -497,7 +497,7 @@
       "name": "Ospika (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "Prince George"
       ],
       "lat": 56.271,
       "lon": -124.0633,
@@ -507,9 +507,9 @@
       "name": "Beddis Beach Helipad",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 48.8,
       "lon": -123.4236,
@@ -519,7 +519,7 @@
       "name": "Port Alice (hosp)",
       "regions": [
         "ALL",
-        "parksville"
+        "Parksville"
       ],
       "lat": 50.4258,
       "lon": -127.4886,
@@ -529,7 +529,7 @@
       "name": "Bowser (A)",
       "regions": [
         "ALL",
-        "prince rupert"
+        "Prince Rupert"
       ],
       "lat": 56.3952,
       "lon": -129.945,
@@ -539,8 +539,8 @@
       "name": "Osoyoos (A)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver"
+        "Kamloops",
+        "Vancouver"
       ],
       "lat": 49.0372,
       "lon": -119.489,
@@ -551,8 +551,8 @@
       "name": "Bella Bella (Campbell Island) (A)",
       "regions": [
         "ALL",
-        "prince george",
-        "prince rupert"
+        "Prince George",
+        "Prince Rupert"
       ],
       "lat": 52.185,
       "lon": -128.157,
@@ -563,10 +563,10 @@
       "name": "Kamloops (Royal Inland hosp)",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Prince George",
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 50.669,
       "lon": -120.333,
@@ -576,9 +576,9 @@
       "name": "Harbour (H)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.2869,
       "lon": -123.1061,
@@ -588,8 +588,8 @@
       "name": "Tofino General hosp",
       "regions": [
         "ALL",
-        "vancouver",
-        "parksville"
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.1511,
       "lon": -125.909,
@@ -599,9 +599,9 @@
       "name": "Delta (North) (H)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.12,
       "lon": -123.0473,
@@ -611,10 +611,10 @@
       "name": "White Saddle Ranch (H)",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Prince George",
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 51.7419,
       "lon": -124.7389,
@@ -633,10 +633,10 @@
       "name": "Whistler (Municipal) (H)",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Prince George",
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 50.1684,
       "lon": -122.9048,
@@ -646,9 +646,9 @@
       "name": "Mission (Public Safety) (H)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.1328,
       "lon": -122.3436,
@@ -658,9 +658,9 @@
       "name": "Mayne Island (Medical Emergency) (H)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 48.8467,
       "lon": -123.2842,
@@ -670,7 +670,7 @@
       "name": "Seal Cove (Public) (H)",
       "regions": [
         "ALL",
-        "prince rupert"
+        "Prince Rupert"
       ],
       "lat": 54.33,
       "lon": -130.278,
@@ -680,9 +680,9 @@
       "name": "Victoria Harbour (Camel Point) (H)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 48.4181,
       "lon": -123.388,
@@ -692,8 +692,8 @@
       "name": "Mabel Lake (A)",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops"
+        "Prince George",
+        "Kamloops"
       ],
       "lat": 50.6089,
       "lon": -118.731,
@@ -703,10 +703,10 @@
       "name": "Green Lake (A)",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Prince George",
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 51.4294,
       "lon": -121.21,
@@ -716,9 +716,9 @@
       "name": "Nanaimo hosp",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.1857,
       "lon": -123.9718,
@@ -737,10 +737,10 @@
       "name": "Echo Valley (A)",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Prince George",
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 51.2417,
       "lon": -121.9898,
@@ -751,8 +751,8 @@
       "name": "San Juan Point (Coast Guard) (H)",
       "regions": [
         "ALL",
-        "vancouver",
-        "parksville"
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 48.5315,
       "lon": -124.4582,
@@ -762,9 +762,9 @@
       "name": "Vancouver General hosp",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.2619,
       "lon": -123.1244,
@@ -774,9 +774,9 @@
       "name": "Port Alberni hosp",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.2488,
       "lon": -124.783,
@@ -786,8 +786,8 @@
       "name": "Quesnel Lake (A)",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops"
+        "Prince George",
+        "Kamloops"
       ],
       "lat": 52.514,
       "lon": -121.0459,
@@ -806,9 +806,9 @@
       "name": "Victoria (Royal Jubilee hosp)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 48.4343,
       "lon": -123.3252,
@@ -818,9 +818,9 @@
       "name": "Little Parker Island (H)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 48.8964,
       "lon": -123.418,
@@ -839,7 +839,7 @@
       "name": "Radium Hot Springs (A)",
       "regions": [
         "ALL",
-        "kamloops"
+        "Kamloops"
       ],
       "lat": 50.6272,
       "lon": -116.095,
@@ -849,10 +849,10 @@
       "name": "Cortes Island (H)",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Prince George",
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 50.0586,
       "lon": -124.982,
@@ -862,10 +862,10 @@
       "name": "Elkin Creek Guest Ranch (A)",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Prince George",
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 51.5105,
       "lon": -123.8062,
@@ -875,8 +875,8 @@
       "name": "Midway (A)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver"
+        "Kamloops",
+        "Vancouver"
       ],
       "lat": 49.01,
       "lon": -118.79,
@@ -886,8 +886,8 @@
       "name": "Port McNeill hosp",
       "regions": [
         "ALL",
-        "vancouver",
-        "parksville"
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 50.5817,
       "lon": -127.0668,
@@ -897,7 +897,7 @@
       "name": "Tsay Keh (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "Prince George"
       ],
       "lat": 56.9061,
       "lon": -124.965,
@@ -916,9 +916,9 @@
       "name": "Sechelt hosp",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.4762,
       "lon": -123.7486,
@@ -928,10 +928,10 @@
       "name": "Blackcomb Helicopters (H)",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Prince George",
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 50.6851,
       "lon": -121.9272,
@@ -941,9 +941,9 @@
       "name": "Fort Langley (A)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.1675,
       "lon": -122.555,
@@ -953,7 +953,7 @@
       "name": "Kemess Creek (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "Prince George"
       ],
       "lat": 56.9744,
       "lon": -126.741,
@@ -963,8 +963,8 @@
       "name": "Woodcock (A)",
       "regions": [
         "ALL",
-        "prince george",
-        "prince rupert"
+        "Prince George",
+        "Prince Rupert"
       ],
       "lat": 55.0667,
       "lon": -128.233,
@@ -975,7 +975,7 @@
       "name": "Kaslo (A)",
       "regions": [
         "ALL",
-        "kamloops"
+        "Kamloops"
       ],
       "lat": 49.9036,
       "lon": -116.935,
@@ -986,10 +986,10 @@
       "name": "Clinton/Bleibler Ranch (A)",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Prince George",
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 51.2668,
       "lon": -121.6858,
@@ -999,8 +999,8 @@
       "name": "Tofino Lifeboat Station Helipad",
       "regions": [
         "ALL",
-        "vancouver",
-        "parksville"
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.1547,
       "lon": -125.9081,
@@ -1010,7 +1010,7 @@
       "name": "Prince Rupert hosp",
       "regions": [
         "ALL",
-        "prince rupert"
+        "Prince Rupert"
       ],
       "lat": 54.3051,
       "lon": -130.3302,
@@ -1029,7 +1029,7 @@
       "name": "Port Hardy hosp",
       "regions": [
         "ALL",
-        "parksville"
+        "Parksville"
       ],
       "lat": 50.7206,
       "lon": -127.5026,
@@ -1039,9 +1039,9 @@
       "name": "Alberni Valley Regional (A)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.3219,
       "lon": -124.931,
@@ -1052,7 +1052,7 @@
       "name": "Tsetzi Lake (Pan Phillips) (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "Prince George"
       ],
       "lat": 52.9701,
       "lon": -125.0287,
@@ -1062,7 +1062,7 @@
       "name": "Golden hosp",
       "regions": [
         "ALL",
-        "kamloops"
+        "Kamloops"
       ],
       "lat": 51.297,
       "lon": -116.967,
@@ -1072,9 +1072,9 @@
       "name": "Sproat Lake Tanker Base (H)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.2898,
       "lon": -124.9391,
@@ -1094,7 +1094,7 @@
       "name": "Prince Rupert (Hydro) (H)",
       "regions": [
         "ALL",
-        "prince rupert"
+        "Prince Rupert"
       ],
       "lat": 54.3117,
       "lon": -130.294,
@@ -1104,8 +1104,8 @@
       "name": "Terrace hosp",
       "regions": [
         "ALL",
-        "prince george",
-        "prince rupert"
+        "Prince George",
+        "Prince Rupert"
       ],
       "lat": 54.5109,
       "lon": -128.5976,
@@ -1115,8 +1115,8 @@
       "name": "Valemount (Yellowhead Helicopters) (H)",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops"
+        "Prince George",
+        "Kamloops"
       ],
       "lat": 52.8662,
       "lon": -119.2976,
@@ -1126,9 +1126,9 @@
       "name": "Comox hosp",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.6751,
       "lon": -124.9412,
@@ -1138,8 +1138,8 @@
       "name": "Kitimat (A)",
       "regions": [
         "ALL",
-        "prince george",
-        "prince rupert"
+        "Prince George",
+        "Prince Rupert"
       ],
       "lat": 54.1678,
       "lon": -128.5787,
@@ -1149,7 +1149,7 @@
       "name": "Fort Grahame (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "Prince George"
       ],
       "lat": 56.5214,
       "lon": -124.4703,
@@ -1159,7 +1159,7 @@
       "name": "Bob Quinn Lake (A)",
       "regions": [
         "ALL",
-        "prince rupert"
+        "Prince Rupert"
       ],
       "lat": 56.9667,
       "lon": -130.25,
@@ -1169,9 +1169,9 @@
       "name": "Victoria hosp",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 48.468,
       "lon": -123.4324,
@@ -1181,9 +1181,9 @@
       "name": "Madrona Bay (H)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 48.8558,
       "lon": -123.486,
@@ -1193,7 +1193,7 @@
       "name": "Tumbler Ridge (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "Prince George"
       ],
       "lat": 55.025,
       "lon": -120.935,
@@ -1204,7 +1204,7 @@
       "name": "Seal Cove (Coast Guard) (H)",
       "regions": [
         "ALL",
-        "prince rupert"
+        "Prince Rupert"
       ],
       "lat": 54.3315,
       "lon": -130.2768,
@@ -1214,8 +1214,8 @@
       "name": "Kemano (H)",
       "regions": [
         "ALL",
-        "prince george",
-        "prince rupert"
+        "Prince George",
+        "Prince Rupert"
       ],
       "lat": 53.5625,
       "lon": -127.9486,
@@ -1225,9 +1225,9 @@
       "name": "Victoria Harbour (Shoal Point) (H)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 48.4232,
       "lon": -123.3875,
@@ -1237,7 +1237,7 @@
       "name": "Fraser Lake (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "Prince George"
       ],
       "lat": 54.0145,
       "lon": -124.7714,
@@ -1248,10 +1248,10 @@
       "name": "Cortes Island (A)",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Prince George",
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 50.0203,
       "lon": -124.984,
@@ -1261,10 +1261,10 @@
       "name": "Campbell River (E & B Heli) (H)",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Prince George",
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 50.0413,
       "lon": -125.2686,
@@ -1274,9 +1274,9 @@
       "name": "Smit Field",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.6669,
       "lon": -125.0977,
@@ -1286,7 +1286,7 @@
       "name": "Castlegar (Tarrys Convention Centre) (H)",
       "regions": [
         "ALL",
-        "kamloops"
+        "Kamloops"
       ],
       "lat": 49.3861,
       "lon": -117.552,
@@ -1296,7 +1296,7 @@
       "name": "Flying L Ranch (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "Prince George"
       ],
       "lat": 55.8195,
       "lon": -120.4603,
@@ -1306,8 +1306,8 @@
       "name": "Dougall Campbell Field",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops"
+        "Prince George",
+        "Kamloops"
       ],
       "lat": 52.0108,
       "lon": -121.2107,
@@ -1317,9 +1317,9 @@
       "name": "Cowichan District hosp",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 48.7862,
       "lon": -123.7214,
@@ -1329,9 +1329,9 @@
       "name": "Nanaimo Harbour (H)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.1608,
       "lon": -123.9232,
@@ -1341,9 +1341,9 @@
       "name": "Frontline Helicopters (H)",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops",
-        "vancouver"
+        "Prince George",
+        "Kamloops",
+        "Vancouver"
       ],
       "lat": 51.9646,
       "lon": -121.8122,
@@ -1353,7 +1353,7 @@
       "name": "Fort St. John (hosp)",
       "regions": [
         "ALL",
-        "prince george"
+        "Prince George"
       ],
       "lat": 56.2467,
       "lon": -120.842,
@@ -1372,9 +1372,9 @@
       "name": "Vancouver / Coquitlam Fire and Rescue (H)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.2916,
       "lon": -122.7921,
@@ -1384,9 +1384,9 @@
       "name": "Nanaimo/Gabriola Island (Health Clinic)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.1783,
       "lon": -123.8353,
@@ -1396,7 +1396,7 @@
       "name": "Boundary hosp (H)",
       "regions": [
         "ALL",
-        "kamloops"
+        "Kamloops"
       ],
       "lat": 49.0306,
       "lon": -118.4699,
@@ -1406,10 +1406,10 @@
       "name": "Gun Lake (H)",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Prince George",
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 50.8897,
       "lon": -122.847,
@@ -1419,9 +1419,9 @@
       "name": "Vancouver / Burnaby (Global BC) (H)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.2546,
       "lon": -122.9352,
@@ -1431,8 +1431,8 @@
       "name": "Gold River (E & B Helicopters) (H)",
       "regions": [
         "ALL",
-        "vancouver",
-        "parksville"
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.7533,
       "lon": -126.0556,
@@ -1443,8 +1443,8 @@
       "name": "The Ridge (H)",
       "regions": [
         "ALL",
-        "vancouver",
-        "parksville"
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.7832,
       "lon": -126.0437,
@@ -1454,7 +1454,7 @@
       "name": "Nelson (High Terrain Helicopters) (H)",
       "regions": [
         "ALL",
-        "kamloops"
+        "Kamloops"
       ],
       "lat": 49.4867,
       "lon": -117.3272,
@@ -1464,7 +1464,7 @@
       "name": "Invermere (hosp) (H)",
       "regions": [
         "ALL",
-        "kamloops"
+        "Kamloops"
       ],
       "lat": 50.5072,
       "lon": -116.0328,
@@ -1474,9 +1474,9 @@
       "name": "Heffley Creek Airstrip",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops",
-        "vancouver"
+        "Prince George",
+        "Kamloops",
+        "Vancouver"
       ],
       "lat": 50.869,
       "lon": -120.2741,
@@ -1486,7 +1486,7 @@
       "name": "Kootenay hosp",
       "regions": [
         "ALL",
-        "kamloops"
+        "Kamloops"
       ],
       "lat": 49.1036,
       "lon": -117.7003,
@@ -1496,8 +1496,8 @@
       "name": "Kelowna General hosp",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver"
+        "Kamloops",
+        "Vancouver"
       ],
       "lat": 49.8743,
       "lon": -119.4924,
@@ -1507,9 +1507,9 @@
       "name": "Mount Belcher (H)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 48.8328,
       "lon": -123.505,
@@ -1519,8 +1519,8 @@
       "name": "Canadian Mountain Holidays (H)",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops"
+        "Prince George",
+        "Kamloops"
       ],
       "lat": 52.7884,
       "lon": -119.2562,
@@ -1530,9 +1530,9 @@
       "name": "Quamichan Lake (A)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 48.8119,
       "lon": -123.651,
@@ -1542,7 +1542,7 @@
       "name": "Slocan hosp (H)",
       "regions": [
         "ALL",
-        "kamloops"
+        "Kamloops"
       ],
       "lat": 49.9841,
       "lon": -117.3744,
@@ -1552,9 +1552,9 @@
       "name": "Nanaimo (West Coast) (H)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.1848,
       "lon": -123.9892,
@@ -1564,8 +1564,8 @@
       "name": "Naramata (H)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver"
+        "Kamloops",
+        "Vancouver"
       ],
       "lat": 49.6029,
       "lon": -119.5785,
@@ -1575,9 +1575,9 @@
       "name": "New Westminster hosp (H)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.2267,
       "lon": -122.8923,
@@ -1587,9 +1587,9 @@
       "name": "Powell River hosp (H)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.8514,
       "lon": -124.5175,
@@ -1599,8 +1599,8 @@
       "name": "Reef Hueston Helicopter Landing",
       "regions": [
         "ALL",
-        "prince george",
-        "prince rupert"
+        "Prince George",
+        "Prince Rupert"
       ],
       "lat": 53.8231,
       "lon": -126.1722,
@@ -1610,8 +1610,8 @@
       "name": "Ross Creek (A)",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops"
+        "Prince George",
+        "Kamloops"
       ],
       "lat": 50.9655,
       "lon": -119.2254,
@@ -1621,9 +1621,9 @@
       "name": "Langley (Russell Farm) (H)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.011,
       "lon": -122.6722,
@@ -1633,8 +1633,8 @@
       "name": "Argus (H)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver"
+        "Kamloops",
+        "Vancouver"
       ],
       "lat": 49.9616,
       "lon": -119.4458,
@@ -1644,8 +1644,8 @@
       "name": "Streatham Reef Hueston (A)",
       "regions": [
         "ALL",
-        "prince george",
-        "prince rupert"
+        "Prince George",
+        "Prince Rupert"
       ],
       "lat": 53.8226,
       "lon": -126.173,
@@ -1655,9 +1655,9 @@
       "name": "Delta (SEI) (H)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.1291,
       "lon": -123.0184,
@@ -1667,10 +1667,10 @@
       "name": "Sonora Resort (H)",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Prince George",
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 50.3817,
       "lon": -125.1576,
@@ -1680,9 +1680,9 @@
       "name": "Abbotsford (Teck) (H)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.1269,
       "lon": -122.395,
@@ -1692,8 +1692,8 @@
       "name": "Valhalla (H)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver"
+        "Kamloops",
+        "Vancouver"
       ],
       "lat": 49.8677,
       "lon": -119.5607,
@@ -1703,9 +1703,9 @@
       "name": "Surrey Memorial hosp (H)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.176,
       "lon": -122.8437,
@@ -1715,8 +1715,8 @@
       "name": "Kelowna (Wildcat Helicopters) (H)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver"
+        "Kamloops",
+        "Vancouver"
       ],
       "lat": 49.8674,
       "lon": -119.5792,
@@ -1726,8 +1726,8 @@
       "name": "Nootka Lightstation Helipad",
       "regions": [
         "ALL",
-        "vancouver",
-        "parksville"
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.5922,
       "lon": -126.6164,
@@ -1737,10 +1737,10 @@
       "name": "Chatham Point Light Station (H)",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Prince George",
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 50.3331,
       "lon": -125.4453,
@@ -1750,7 +1750,7 @@
       "name": "Quatsino Light Station (H)",
       "regions": [
         "ALL",
-        "parksville"
+        "Parksville"
       ],
       "lat": 50.4417,
       "lon": -128.0315,
@@ -1760,8 +1760,8 @@
       "name": "Boat Bluff Lighthouse (H)",
       "regions": [
         "ALL",
-        "prince george",
-        "prince rupert"
+        "Prince George",
+        "Prince Rupert"
       ],
       "lat": 52.6437,
       "lon": -128.5246,
@@ -1771,8 +1771,8 @@
       "name": "Alert Bay (A)",
       "regions": [
         "ALL",
-        "vancouver",
-        "parksville"
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 50.5822,
       "lon": -126.916,
@@ -1782,8 +1782,8 @@
       "name": "Tofino / Long Beach (A)",
       "regions": [
         "ALL",
-        "vancouver",
-        "parksville"
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.0798,
       "lon": -125.7756,
@@ -1794,7 +1794,7 @@
       "name": "Nelson/Baylock Estate (H)",
       "regions": [
         "ALL",
-        "kamloops"
+        "Kamloops"
       ],
       "lat": 49.5447,
       "lon": -117.2606,
@@ -1804,8 +1804,8 @@
       "name": "Bella Coola (A)",
       "regions": [
         "ALL",
-        "prince george",
-        "prince rupert"
+        "Prince George",
+        "Prince Rupert"
       ],
       "lat": 52.3875,
       "lon": -126.596,
@@ -1816,9 +1816,9 @@
       "name": "Campbell River (A)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.9508,
       "lon": -125.271,
@@ -1829,9 +1829,9 @@
       "name": "Nanaimo (A)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.055,
       "lon": -123.8699,
@@ -1842,7 +1842,7 @@
       "name": "Castlegar/West Kootenay (A)",
       "regions": [
         "ALL",
-        "kamloops"
+        "Kamloops"
       ],
       "lat": 49.2964,
       "lon": -117.632,
@@ -1853,8 +1853,8 @@
       "name": "Blue River (A)",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops"
+        "Prince George",
+        "Kamloops"
       ],
       "lat": 52.1167,
       "lon": -119.283,
@@ -1865,7 +1865,7 @@
       "name": "Chetwynd (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "Prince George"
       ],
       "lat": 55.6872,
       "lon": -121.627,
@@ -1876,9 +1876,9 @@
       "name": "Chilliwack (A)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.1532,
       "lon": -121.9393,
@@ -1889,7 +1889,7 @@
       "name": "Fairmont Hot Springs (A)",
       "regions": [
         "ALL",
-        "kamloops"
+        "Kamloops"
       ],
       "lat": 50.3311,
       "lon": -115.8737,
@@ -1900,9 +1900,9 @@
       "name": "Princeton (A)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.4681,
       "lon": -120.511,
@@ -1923,7 +1923,7 @@
       "name": "Dawson Creek (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "Prince George"
       ],
       "lat": 55.7412,
       "lon": -120.1833,
@@ -1934,9 +1934,9 @@
       "name": "Texada Gillies Bay (A)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.6943,
       "lon": -124.5181,
@@ -1947,7 +1947,7 @@
       "name": "Golden (A)",
       "regions": [
         "ALL",
-        "kamloops"
+        "Kamloops"
       ],
       "lat": 51.2992,
       "lon": -116.982,
@@ -1958,9 +1958,9 @@
       "name": "Hope (A)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.3689,
       "lon": -121.495,
@@ -1971,7 +1971,7 @@
       "name": "Fort St James (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "Prince George"
       ],
       "lat": 54.3972,
       "lon": -124.263,
@@ -1982,8 +1982,8 @@
       "name": "Denny Island (A)",
       "regions": [
         "ALL",
-        "prince george",
-        "prince rupert"
+        "Prince George",
+        "Prince Rupert"
       ],
       "lat": 52.1365,
       "lon": -128.0562,
@@ -1993,10 +1993,10 @@
       "name": "Kamloops (A)",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Prince George",
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 50.703,
       "lon": -120.4486,
@@ -2007,10 +2007,10 @@
       "name": "Tranquille Valley (A)",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Prince George",
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 50.8595,
       "lon": -120.6711,
@@ -2020,10 +2020,10 @@
       "name": "Lillooet (A)",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Prince George",
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 50.6747,
       "lon": -121.894,
@@ -2034,8 +2034,8 @@
       "name": "Kelowna INT (A)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver"
+        "Kamloops",
+        "Vancouver"
       ],
       "lat": 49.9561,
       "lon": -119.378,
@@ -2046,7 +2046,7 @@
       "name": "Hudson's Hope (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "Prince George"
       ],
       "lat": 56.0351,
       "lon": -121.9783,
@@ -2057,9 +2057,9 @@
       "name": "Langley (A)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.1008,
       "lon": -122.631,
@@ -2070,9 +2070,9 @@
       "name": "Pitt Meadows (A)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.2161,
       "lon": -122.71,
@@ -2083,7 +2083,7 @@
       "name": "Prince Rupert (A)",
       "regions": [
         "ALL",
-        "prince rupert"
+        "Prince Rupert"
       ],
       "lat": 54.2861,
       "lon": -130.445,
@@ -2094,10 +2094,10 @@
       "name": "Pemberton Regional (A)",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Prince George",
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 50.3025,
       "lon": -122.738,
@@ -2108,10 +2108,10 @@
       "name": "Puntzi Mountain (A)",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Prince George",
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 52.1128,
       "lon": -124.145,
@@ -2122,9 +2122,9 @@
       "name": "Powell River (A)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.8342,
       "lon": -124.5,
@@ -2135,8 +2135,8 @@
       "name": "Burns Lake (A)",
       "regions": [
         "ALL",
-        "prince george",
-        "prince rupert"
+        "Prince George",
+        "Prince Rupert"
       ],
       "lat": 54.3764,
       "lon": -125.951,
@@ -2147,9 +2147,9 @@
       "name": "Comox Valley (A) / CFB Comox",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.7108,
       "lon": -124.887,
@@ -2160,8 +2160,8 @@
       "name": "Quesnel (A)",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops"
+        "Prince George",
+        "Kamloops"
       ],
       "lat": 53.0261,
       "lon": -122.51,
@@ -2172,8 +2172,8 @@
       "name": "Revelstoke (A)",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops"
+        "Prince George",
+        "Kamloops"
       ],
       "lat": 50.9622,
       "lon": -118.1843,
@@ -2184,10 +2184,10 @@
       "name": "Squamish (A)",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Prince George",
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.7817,
       "lon": -123.162,
@@ -2217,8 +2217,8 @@
       "name": "Vernon Regional (A)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver"
+        "Kamloops",
+        "Vancouver"
       ],
       "lat": 50.2462,
       "lon": -119.331,
@@ -2229,9 +2229,9 @@
       "name": "Vancouver INT (A)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.1939,
       "lon": -123.184,
@@ -2242,8 +2242,8 @@
       "name": "Williams Lake (A)",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops"
+        "Prince George",
+        "Kamloops"
       ],
       "lat": 52.1831,
       "lon": -122.054,
@@ -2254,7 +2254,7 @@
       "name": "Cranbrook INT (A)",
       "regions": [
         "ALL",
-        "kamloops"
+        "Kamloops"
       ],
       "lat": 49.6108,
       "lon": -115.782,
@@ -2265,7 +2265,7 @@
       "name": "Fort St John (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "Prince George"
       ],
       "lat": 56.2381,
       "lon": -120.74,
@@ -2286,8 +2286,8 @@
       "name": "Northwest Regional (A)",
       "regions": [
         "ALL",
-        "prince george",
-        "prince rupert"
+        "Prince George",
+        "Prince Rupert"
       ],
       "lat": 54.4685,
       "lon": -128.576,
@@ -2298,9 +2298,9 @@
       "name": "Abbotsford INT (A)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.0253,
       "lon": -122.361,
@@ -2311,8 +2311,8 @@
       "name": "Smithers (A)",
       "regions": [
         "ALL",
-        "prince george",
-        "prince rupert"
+        "Prince George",
+        "Prince Rupert"
       ],
       "lat": 54.8247,
       "lon": -127.183,
@@ -2333,8 +2333,8 @@
       "name": "Penticton (A)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver"
+        "Kamloops",
+        "Vancouver"
       ],
       "lat": 49.4631,
       "lon": -119.602,
@@ -2345,9 +2345,9 @@
       "name": "Victoria INT (A)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 48.6472,
       "lon": -123.4278,
@@ -2358,7 +2358,7 @@
       "name": "Sandspit (A)",
       "regions": [
         "ALL",
-        "prince rupert"
+        "Prince Rupert"
       ],
       "lat": 53.2543,
       "lon": -131.814,
@@ -2369,7 +2369,7 @@
       "name": "Port Hardy (A)",
       "regions": [
         "ALL",
-        "parksville"
+        "Parksville"
       ],
       "lat": 50.6806,
       "lon": -127.367,
@@ -2380,7 +2380,7 @@
       "name": "Mackenzie (A)",
       "regions": [
         "ALL",
-        "prince george"
+        "Prince George"
       ],
       "lat": 55.2978,
       "lon": -123.1339,
@@ -2391,9 +2391,9 @@
       "name": "Shuswap Regional (A)",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops",
-        "vancouver"
+        "Prince George",
+        "Kamloops",
+        "Vancouver"
       ],
       "lat": 50.6828,
       "lon": -119.229,
@@ -2404,9 +2404,9 @@
       "name": "Boundary Bay (A)",
       "regions": [
         "ALL",
-        "kamloops",
-        "vancouver",
-        "parksville"
+        "Kamloops",
+        "Vancouver",
+        "Parksville"
       ],
       "lat": 49.0742,
       "lon": -123.012,
@@ -2417,7 +2417,7 @@
       "name": "Grand Forks (A)",
       "regions": [
         "ALL",
-        "kamloops"
+        "Kamloops"
       ],
       "lat": 49.0156,
       "lon": -118.431,
@@ -2428,9 +2428,9 @@
       "name": "South Cariboo (A)",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops",
-        "vancouver"
+        "Prince George",
+        "Kamloops",
+        "Vancouver"
       ],
       "lat": 51.7361,
       "lon": -121.333,
@@ -2441,7 +2441,7 @@
       "name": "Masset (A)",
       "regions": [
         "ALL",
-        "prince rupert"
+        "Prince Rupert"
       ],
       "lat": 54.0275,
       "lon": -132.125,
@@ -2452,7 +2452,7 @@
       "name": "Nelson (A)",
       "regions": [
         "ALL",
-        "kamloops"
+        "Kamloops"
       ],
       "lat": 49.4942,
       "lon": -117.301,
@@ -2463,7 +2463,7 @@
       "name": "Stewart (A)",
       "regions": [
         "ALL",
-        "prince rupert"
+        "Prince Rupert"
       ],
       "lat": 55.9354,
       "lon": -129.9824,
@@ -2474,9 +2474,9 @@
       "name": "The Hill Airstrip",
       "regions": [
         "ALL",
-        "prince george",
-        "kamloops",
-        "parksville"
+        "Prince George",
+        "Kamloops",
+        "Parksville"
       ],
       "lat": 52.2188,
       "lon": -123.4495,
@@ -2486,8 +2486,8 @@
       "name": "Dean River (A)",
       "regions": [
         "ALL",
-        "prince george",
-        "prince rupert"
+        "Prince George",
+        "Prince Rupert"
       ],
       "lat": 52.8237,
       "lon": -126.965,
